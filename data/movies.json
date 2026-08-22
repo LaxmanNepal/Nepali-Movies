@@ -1,1 +1,2193 @@
-{"movies":[],"meta":{"updatedAt":"2026-08-23T00:00:00Z","source":"seed","note":"Catalog will be populated by the GitHub Actions YouTube discovery workflow after YOUTUBE_API_KEY is configured."}}
+{
+  "movies": [
+    {
+      "id": "xHbyrAIPn3Y",
+      "title": "GHAMPANI () Ft. Dayahang Rai, Keki Adhikari | New Nepali Superhit",
+      "youtubeVideoId": "xHbyrAIPn3Y",
+      "youtubeUrl": "https://www.youtube.com/watch?v=xHbyrAIPn3Y",
+      "thumbnail": "https://i.ytimg.com/vi/xHbyrAIPn3Y/hqdefault.jpg",
+      "creator": {
+        "name": "HighlightsNepal",
+        "channelId": "UCrzyJYtjLOTfnUur8hsr7ow",
+        "url": "https://www.youtube.com/channel/UCrzyJYtjLOTfnUur8hsr7ow"
+      },
+      "description": "GHAMPANI (Full Movie) Ft. Dayahang Rai, Keki Adhikari | New Nepali Superhit Full Movie\n\nHighlights Nepal Presents!\nA Cinema Art Production\nin Association with Torch Light Productions and Aslesha Entertainment\nNew Nepali Movie: GHAMPANI\n\nStarring: Dayahang Rai, Keki Adhikari, Ankeet Khadka, Silsa Jirel, Prakash Ghimire, Puskar Gurung, Buddhi Tamang, Kabita Ale, Aruna Karki, Amogh Pokharel\nDirector of Photography: Shailendra D Karki\nEditor: Nimesh Shrestha\nMusic: Kali Prasad Baskota, Chandra Kumar",
+      "publishedDate": "2018-08-16T09:58:16Z",
+      "year": 2018,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 22508092,
+      "likes": 154755,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 100
+      }
+    },
+    {
+      "id": "BSjja0_8GRU",
+      "title": "HAMI TEEN BHAI (HD) - Superhit Nepali || Rajesh Hamal, Shree Krishna Stha., Nikhil Upreti",
+      "youtubeVideoId": "BSjja0_8GRU",
+      "youtubeUrl": "https://www.youtube.com/watch?v=BSjja0_8GRU",
+      "thumbnail": "https://i.ytimg.com/vi/BSjja0_8GRU/hqdefault.jpg",
+      "creator": {
+        "name": "OSR Movies",
+        "channelId": "UCMJB4t_DykIriYit14RA2lQ",
+        "url": "https://www.youtube.com/channel/UCMJB4t_DykIriYit14RA2lQ"
+      },
+      "description": "Superhit Nepali Full Movie HAMI TEEN BHAI (HD Quality) Full Lenght Movie || Rajesh Hamal, Nikhil Upreti, Shree Krishna Shrestha, Rekha Thapa, Jharana Thapa, Nandita KC, Sushila Rayamajhi, Ravi Giri, Keshav Bhattarai, Sunil Dutta, Sushil Pokharel, Ram Chandra Adhikari, Shiva Regmi || Superhit Nepali Movie HAMI TEEN BHAI Full Movie 2023\n\nHAMI TEEN BHAI (HD) - Superhit Nepali Full Movie || Rajesh Hamal, Shree Krishna Shrestha, Nikhil Upreti\n\nTikTok (OSR Movies) : https://www.tiktok.com/@osrmovies?l",
+      "publishedDate": "2023-03-27T09:33:33Z",
+      "year": 2023,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 24113605,
+      "likes": 154456,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 100
+      }
+    },
+    {
+      "id": "P88-gFBb40U",
+      "title": "HAJAR JUNI SAMMA || New Nepali || Swastima Khadka, Aryan Sigdel, Akhilesh, Salon, Anubhav",
+      "youtubeVideoId": "P88-gFBb40U",
+      "youtubeUrl": "https://www.youtube.com/watch?v=P88-gFBb40U",
+      "thumbnail": "https://i.ytimg.com/vi/P88-gFBb40U/hqdefault.jpg",
+      "creator": {
+        "name": "OSR Digital",
+        "channelId": "UCxCoea3ulOukfXiYAm87ZIA",
+        "url": "https://www.youtube.com/channel/UCxCoea3ulOukfXiYAm87ZIA"
+      },
+      "description": "HAJAR JUNI SAMMA || New Nepali Full Movie 2021/2078 || Aryan Sigdel, Swastima Khadka, Salon Basnet, Akhilesh Pradhan, Sanchita Luitel, Anubhav Regmi, Shiva Hari Paudel\n\nMovie Details:\n\n► Cast: Aryan Sigdel, Priyanka Karki, Sanchita Luitel, Swastima Khadka, Salon Basnet, Shiva Hari Paudel, Anubhav Regmi\n► Introducing: Akhilesh Pradhan\n► Story/ Producer: Bishal Chamling\n►Lyrics: Pawan Chamling (Kiran), Basanta Sapkota, Rajan Raj Siwakoti, Manas Bikram Thapa\n► MUA: Shyam Baral\n► Asst. Cinematograph",
+      "publishedDate": "2021-11-28T11:15:14Z",
+      "year": 2021,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 20488509,
+      "likes": 250473,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 100
+      }
+    },
+    {
+      "id": "kQZq8KrtQJ0",
+      "title": "JAARI () - DAYAHANG RAI, MIRUNA MAGAR, RAM BABU GURUNG, UPENDRA SUBBA",
+      "youtubeVideoId": "kQZq8KrtQJ0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=kQZq8KrtQJ0",
+      "thumbnail": "https://i.ytimg.com/vi/kQZq8KrtQJ0/hqdefault.jpg",
+      "creator": {
+        "name": "Baasuri Films",
+        "channelId": "UCh5kdkoH3OUpMY5jg3zaJwQ",
+        "url": "https://www.youtube.com/channel/UCh5kdkoH3OUpMY5jg3zaJwQ"
+      },
+      "description": "@BaasuriFilms Presents, JAARI (FULL MOVIE) -  JAARI (NEPALI MOVIE)\nA Film Produced By Ram Babu Gurung\n\nMovie: Jaari (जारी)\nA Film Written/Directed By Upendra Subba\n\nCast: \nDayahang Rai\nMiruna Magar\nPrem Subba\nBijay Baral \n@bijaybaralofficial \nRoydeep Shrestha\nRekha Limbu\n@rekhalimbu165 \nAnil Subba\nPuskar Gurung\nKamal Mani Nepal\nUpasanba Nembang\nSita Kumari Tumbapo\nPanthak Thule\nYumarani Senehang\nManita Jaica Bantawa\nGanga Tumbahamphe\nParikshya Limbu\nTibat Rai\nKaviraj Rai\nAsmita Rai\nTulasha Angde",
+      "publishedDate": "2024-10-07T12:00:27Z",
+      "year": 2024,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 25277802,
+      "likes": 387657,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 100
+      }
+    },
+    {
+      "id": "6Y1hnZKxWj4",
+      "title": "YATRA || New Nepali || Salin Man Baniya, Malika Mahat || Salon Basnet, Rear, Prechya",
+      "youtubeVideoId": "6Y1hnZKxWj4",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6Y1hnZKxWj4",
+      "thumbnail": "https://i.ytimg.com/vi/6Y1hnZKxWj4/hqdefault.jpg",
+      "creator": {
+        "name": "OSR Digital",
+        "channelId": "UCxCoea3ulOukfXiYAm87ZIA",
+        "url": "https://www.youtube.com/channel/UCxCoea3ulOukfXiYAm87ZIA"
+      },
+      "description": "YATRA - New Nepali Full Movie || Salin Man Bania, Malika Mahat, Salon Basnet, Rear Rai, Prechya Bajracharya, Jahanwi Basnet, Bishal Katuwal, Prakash Adhikari, Dhiren Shakya, Rajaram Poudel, Nani Kaji Dangol, Binda Khatiwoda, Jun || Yatra Nepali Full Movie\n\nMovie Credit:\n► Cast: Salin Man Bania, Salon Basnet, Rear Rai, Prechya Bajracharya, Jahanwi Basnet, Bishal Katuwal, Prakash Adhikari, Dhiren Shakya, Rajaram Poudel, Nani Kaji Dangol, Binda Khatiwoda, Jun Zhang (China), Bobby (Kenya)\n► Introduc",
+      "publishedDate": "2021-11-12T11:15:13Z",
+      "year": 2021,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 25031771,
+      "likes": 242093,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 100
+      }
+    },
+    {
+      "id": "dq0HurUtR98",
+      "title": "Mr. Jholay | | Dayahang Rai | Deeya Pun | Ram Babu Gurung | Buddhi Tamang | Bijay Baral",
+      "youtubeVideoId": "dq0HurUtR98",
+      "youtubeUrl": "https://www.youtube.com/watch?v=dq0HurUtR98",
+      "thumbnail": "https://i.ytimg.com/vi/dq0HurUtR98/hqdefault.jpg",
+      "creator": {
+        "name": "HiTechEntertainment",
+        "channelId": "UCd97ukfGaYt4LKtIgKm9Vhw",
+        "url": "https://www.youtube.com/channel/UCd97ukfGaYt4LKtIgKm9Vhw"
+      },
+      "description": "Cinema Art & Teken Khadka Production Presents!\nNepali Movie Mr. JHOLAY\n➤Casts: Dayahang Rai, Barsha Raut, Deeya Pun, Puskar Gurung, Buddhi Tamang, Praveen Khatiwada, Bijay Baral, Aruna Karki, Kamal Mani Nepal, Saroj Aryal, Niru Khadka, Laxmi Bardewa, Maotse Gurung, DB Gurung\n➤Sound Mixing: Uttam Neupane\n➤Art Direction: Suresh Karki\n➤Costume: Sujan Pariyar, Kuldeep Adhikari\n➤Make-up: Manoj Lama\n➤Publicity Design: Swapnil Acharya\n➤Production Manager: Suraj Bam Thakuri\n➤Choreographer: Vikram Swar\n➤",
+      "publishedDate": "2018-12-30T09:30:01Z",
+      "year": 2018,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 34199338,
+      "likes": 262219,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 100
+      }
+    },
+    {
+      "id": "q1BzJ6na4Nc",
+      "title": "Chhakka Panja 2 () Deepak, Priyanka, Jitu, Kedar, Buddhi, Barsha, Swastima",
+      "youtubeVideoId": "q1BzJ6na4Nc",
+      "youtubeUrl": "https://www.youtube.com/watch?v=q1BzJ6na4Nc",
+      "thumbnail": "https://i.ytimg.com/vi/q1BzJ6na4Nc/hqdefault.jpg",
+      "creator": {
+        "name": "HighlightsNepal",
+        "channelId": "UCrzyJYtjLOTfnUur8hsr7ow",
+        "url": "https://www.youtube.com/channel/UCrzyJYtjLOTfnUur8hsr7ow"
+      },
+      "description": "Chhakka Panja 2 (Full Movie) Deepak, Priyanka, Jitu, Kedar, Buddhi, Barsha, Swastima | Nepali Movie\n\nAama Saraswati Movies & IME Presents!\n\"Chhakka Panja 2\"\na Film by Deepa Shree Niraula\n\nStarring: Deepak Raj Giri, Priyanka Karki, Jitu Nepal, Kedar Ghimire, Buddhi Tamang, Barsha Raut, Gaurav Pahari, Swaroop Purush Dhakal, Swastima Khadka, Laxmi Giri, Jaynanda Lama, Shivahari Paudel, Kiran KC, Rajaram Paudel\nDubbing: Manoj Rajbahak\nMusic: Kiran Kandel, Almoda Rana Uprety\nBackground Music: Tsujil ",
+      "publishedDate": "2019-09-23T14:44:50Z",
+      "year": 2019,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 30116530,
+      "likes": 188601,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 100
+      }
+    },
+    {
+      "id": "7WR3qzB40V8",
+      "title": "Kabaddi 4 - The Final Match () | DAYAHANG RAI, SAUGAT MALLA, MIRUNA MAGAR",
+      "youtubeVideoId": "7WR3qzB40V8",
+      "youtubeUrl": "https://www.youtube.com/watch?v=7WR3qzB40V8",
+      "thumbnail": "https://i.ytimg.com/vi/7WR3qzB40V8/hqdefault.jpg",
+      "creator": {
+        "name": "Baasuri Films",
+        "channelId": "UCh5kdkoH3OUpMY5jg3zaJwQ",
+        "url": "https://www.youtube.com/channel/UCh5kdkoH3OUpMY5jg3zaJwQ"
+      },
+      "description": "@BaasuriFilms presents, Kabaddi 4 - The Final Match (Full Movie) |  कबड्डी ४: द फाइनल म्याच (Nepali Movie)\nCASTS: DAYAHANG RAI, SAUGAT MALLA, MIRUNA MAGAR, GAUMAYA GURUNG, BUDDHI TAMANG, BIJAY BARAL, UPENDRA SUBBA, KAMAL MANI NEPAL,\nPUSKAR GURUNG, KABITA ALE, MAOTSE GURUNG, SARADA ADHIKARI, LAL SHOBHA GURUNG, PRAKASH GHIMIRE, CHINIMAYA GURUNG\n\nCINEMATOGRAPHER : SHAILENDRA D KARKI \nEDITOR : NIMESH SHRESTHA \nMUSIC : KALI PRASAD BASKOTA / S D YOGI / ANUPAM SHARMA\nBACKGROUND SCORE & SOUND DESIGN : R",
+      "publishedDate": "2023-10-31T11:00:11Z",
+      "year": 2023,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 29437337,
+      "likes": 328908,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 100
+      }
+    },
+    {
+      "id": "cWUYY8OrL5I",
+      "title": "DREAMS () Anmol KC | Samragyee RL Shah | New Nepali Superhit",
+      "youtubeVideoId": "cWUYY8OrL5I",
+      "youtubeUrl": "https://www.youtube.com/watch?v=cWUYY8OrL5I",
+      "thumbnail": "https://i.ytimg.com/vi/cWUYY8OrL5I/hqdefault.jpg",
+      "creator": {
+        "name": "HighlightsNepal",
+        "channelId": "UCrzyJYtjLOTfnUur8hsr7ow",
+        "url": "https://www.youtube.com/channel/UCrzyJYtjLOTfnUur8hsr7ow"
+      },
+      "description": "DREAMS (Full Movie) Anmol KC | Samragyee RL Shah | New Nepali Superhit Full Movie\n\nSuper Kajol Films Presents DREAMS\nArtist: Anmol K.C, Samragyee Rajya Laxmi Shah\nProducer: Bhuwan K.C. DR.Kapil Rijal, Bhanu Phuyel, Satyanarayan Keyal\nCo-Producer: Raja Pradhan, Krishna Pandey\nAssociate Director: Diwakar Bhattarai\nScreen Play: Samipya Raj Timalsina\nMusic: Herculese Basnet, Bishesh/Rodit\nSound Design: Uttam Neupane\nProduction Designer: Ganesh Sapkota\nPost Production: Busy Bee Entertainment\nAction: ",
+      "publishedDate": "2016-09-09T16:55:30Z",
+      "year": 2016,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 20211213,
+      "likes": 163614,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 98.52
+      }
+    },
+    {
+      "id": "g1JneMhJQ18",
+      "title": "JATRAI JATRA - Superhit || Bipin Karki, Dayahang Rai, Rabindra Singh, Rabindra, Barsha",
+      "youtubeVideoId": "g1JneMhJQ18",
+      "youtubeUrl": "https://www.youtube.com/watch?v=g1JneMhJQ18",
+      "thumbnail": "https://i.ytimg.com/vi/g1JneMhJQ18/hqdefault.jpg",
+      "creator": {
+        "name": "OSR Digital",
+        "channelId": "UCxCoea3ulOukfXiYAm87ZIA",
+        "url": "https://www.youtube.com/channel/UCxCoea3ulOukfXiYAm87ZIA"
+      },
+      "description": "JATRAI JATRA \"जात्रै जात्रा\" - New Nepali Superhit Movie || Bipin Karki, Dayahang Rai, Rabindra Singh Baniya, Rabindra Jha, Barsha Raut || Latest Nepali Movie Jatrai Jatra || With English Subtitle\n\n► Movie: Jatrai Jatra\n► Cast: Bipin Karki, Dayahang Rai, Rabindra Singh Baniya, Rabindra Jha, Barsha Raut, Raja Ram Poudel, Prakash Ghimire, Sohit Manandhar, Kalu Rana, Ansu Maharjan, Krishna Bhakta Maharjan,Kabindra Tripathi, Prem Pandey, Sajan Thapa Magar, Priyanka Jha, Sharma ji, Laxy Shrestha, Arb",
+      "publishedDate": "2020-12-14T10:15:11Z",
+      "year": 2020,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 18416795,
+      "likes": 151458,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 96.8
+      }
+    },
+    {
+      "id": "hwk7xvoQP5k",
+      "title": "Superhit HIMMAT || || Rekha Thapa, Biraj Bhatta, Ramit Dhungana",
+      "youtubeVideoId": "hwk7xvoQP5k",
+      "youtubeUrl": "https://www.youtube.com/watch?v=hwk7xvoQP5k",
+      "thumbnail": "https://i.ytimg.com/vi/hwk7xvoQP5k/hqdefault.jpg",
+      "creator": {
+        "name": "OSR Movies",
+        "channelId": "UCMJB4t_DykIriYit14RA2lQ",
+        "url": "https://www.youtube.com/channel/UCMJB4t_DykIriYit14RA2lQ"
+      },
+      "description": "Himmat - Superhit Nepali Full Movie || Rekha Thapa, Biraj Bhatta, Ramit Dhungana, Keshab Bhattarai, Hemanta Budhathoki, Shree Krishna Luitel, Dinesh Sharma, Vijay Deuja and Others || Nepali Movie Himmat\n\nTikTok (OSR Movies) : https://www.tiktok.com/@osrmovies?lang=en\n\nHimmat Nepali Full Movie\nNepali Movie Himmat\n\nGuna Cinema (P) Ltd. Presents\nRekha Films\n\nMovie: Himmat\nCast: Rekha Thapa, Biraj Bhatta, Ramit Dhungana, Keshab Bhattarai, Hemanta Budhathoki, Shree Krishna Luitel, Dinesh Sharma, Vija",
+      "publishedDate": "2022-02-10T07:13:55Z",
+      "year": 2022,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 19220037,
+      "likes": 97876,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 96.29
+      }
+    },
+    {
+      "id": "k0uq7Srzb8g",
+      "title": "Papi Manchhe - Nepali || Rajesh Hamal, Nikhil Upreti, Karishma Manandhar, Sanchita | OSR",
+      "youtubeVideoId": "k0uq7Srzb8g",
+      "youtubeUrl": "https://www.youtube.com/watch?v=k0uq7Srzb8g",
+      "thumbnail": "https://i.ytimg.com/vi/k0uq7Srzb8g/hqdefault.jpg",
+      "creator": {
+        "name": "OSR Movies",
+        "channelId": "UCMJB4t_DykIriYit14RA2lQ",
+        "url": "https://www.youtube.com/channel/UCMJB4t_DykIriYit14RA2lQ"
+      },
+      "description": "Nepali Superhit Full Movie Papi Manchhe || Nikhil Upreti, Karishma Manandhar, Rajesh Hamal, Sanchita Luitel || PAPI MANCHHE Superhit Nepali movie\n\nRaj Kumar Rai's Papi Manchhe\nMovie: PAPI MANCHHE\nCast: Nikhil Upreti, Karishma Manandhar, Sanchita Luitel, Sunil Thapa, Hiunwala Gautam, Kiran K.C., Dinesh Sharma, Surendra K.C., Manoj K.C., Bikash Shrestha\n\nSpecial Role: Rajesh Hamal\nChild Artists: Abhipsa Khanal, Suraj Thapaliya, Nehal Shrestha, Salina Basnet\nGuest Artists: Narayan Puri, N.B. Maharj",
+      "publishedDate": "2020-08-21T08:45:02Z",
+      "year": 2020,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 18972393,
+      "likes": 105037,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 95.89
+      }
+    },
+    {
+      "id": "HANVpfzOFUE",
+      "title": "Hostel Returns ||होस्टेल रिटन्स || Nepali Hit Movie || HD",
+      "youtubeVideoId": "HANVpfzOFUE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=HANVpfzOFUE",
+      "thumbnail": "https://i.ytimg.com/vi/HANVpfzOFUE/hqdefault.jpg",
+      "creator": {
+        "name": "Budha Subba Digital",
+        "channelId": "UCNR1KcWXj7zpWQFJtU3ddYg",
+        "url": "https://www.youtube.com/channel/UCNR1KcWXj7zpWQFJtU3ddYg"
+      },
+      "description": "Hostel Returns ||होस्टेल रिटन्स || Nepali Hit Full Movie \n==========================================\n\nHostel Returns  ||  होस्टेल रिर्टन्स  || Clipped Movie\nDirector :Suraj Bhushal\nProducer/Story : Sunil Rawal \nMusic & Lyrics : Swapnil Sharma\nActors : Sushil Shrestha, Sashi Shrestha,Swastima Khadka, Abhaya Baral, Naajir Husain etc.....\nScreenplay & Dialogue : Suraj Bhushal, Santosh Lamsal\nChoreographer : Govinda Rai, Suraj Bhusal\nAction : Asta Maharjan\nCinematographer : Hari Humagain\nColorist : ",
+      "publishedDate": "2016-04-12T18:59:30Z",
+      "year": 2016,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 16809964,
+      "likes": 173646,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 94.74
+      }
+    },
+    {
+      "id": "5uJMKHtseLE",
+      "title": "JHINGEDAAU || New Nepali 2026 || Keki Adhikari, Aanchal Sharma, Mukun Bhusal, Kusha Bista",
+      "youtubeVideoId": "5uJMKHtseLE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5uJMKHtseLE",
+      "thumbnail": "https://i.ytimg.com/vi/5uJMKHtseLE/hqdefault.jpg",
+      "creator": {
+        "name": "OSR Movies",
+        "channelId": "UCMJB4t_DykIriYit14RA2lQ",
+        "url": "https://www.youtube.com/channel/UCMJB4t_DykIriYit14RA2lQ"
+      },
+      "description": "JHINGEDAAU Nepali Full Movie 2026 || New Nepali Full Movie 2026 Jhingedaau || Keki Adhikari, Mukun Bhusal, Aanchal Sharma, Hiunwala Gautam, Sangam Bhandari, Bijay Deuja, Ayan Khadka, Abhay Raj Baral, Kusha Bista || Jhingedaau Nepali Full Movie\n\n===========================================\nKapangadhi Cinema (P) Ltd. & Film Crew Nepal (P) Ltd. Present\n\nGyanendra Deuja's JHINGEDAAU (Based on the story of Bhimnidhi Tiwari)\n\n===========================================\n\nMovie Credit:\n\nMovie: Jhingedaau",
+      "publishedDate": "2026-08-21T09:15:06Z",
+      "year": 2026,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 1980393,
+      "likes": 58677,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 92.74
+      }
+    },
+    {
+      "id": "1Eeok4vW6b4",
+      "title": "Hostel 3- New Nepali 2026- CoolBoy, Magne Buda, Padam, Ryhaan, Hena, Ashish, Simran",
+      "youtubeVideoId": "1Eeok4vW6b4",
+      "youtubeUrl": "https://www.youtube.com/watch?v=1Eeok4vW6b4",
+      "thumbnail": "https://i.ytimg.com/vi/1Eeok4vW6b4/hqdefault.jpg",
+      "creator": {
+        "name": "Budha Subba Digital",
+        "channelId": "UCNR1KcWXj7zpWQFJtU3ddYg",
+        "url": "https://www.youtube.com/channel/UCNR1KcWXj7zpWQFJtU3ddYg"
+      },
+      "description": "Hostel 3- New Nepali Full Movie 2026- CoolBoy, Magne Buda, Padam, Ryhaan, Hena, Ashish, Simran\n\n\nCast: Paras Bam Thakuri,Ryhaan Giri, Padam Tamang, Ashish Ghimire, Simran Pant, Hena Nagarkoti, Sama Parajuli, Prabin Khatiwada, Umar Khan, Dinesh Dc, Subash Gajurel, Uttam Kc, Ashish Purush,Shyam Rai,Rohan Shrestha, Santosh Baniya, Aron Kan, Bishnu Karki, Willeam PN, Niraj Khanal,Ashmita Khanal,Mahesh Mukhiya Sunwar,Roshika Poudel\n\nMusic: Arjun Pokhrel,Almoda Rana Upreti,Mahesh Gyawali,Kiran Michael",
+      "publishedDate": "2026-03-27T13:00:07Z",
+      "year": 2026,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 9434566,
+      "likes": 273195,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 92.44
+      }
+    },
+    {
+      "id": "Jl9_MgLcVAg",
+      "title": "DAL BHAT TARKARI Nepali New Movie SUDAN K.C Madan Krishna, Hari Bansha, Niruta,Pushpa,Barsha,Aanchal",
+      "youtubeVideoId": "Jl9_MgLcVAg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Jl9_MgLcVAg",
+      "thumbnail": "https://i.ytimg.com/vi/Jl9_MgLcVAg/hqdefault.jpg",
+      "creator": {
+        "name": "Maha Sanchar",
+        "channelId": "UCHYrzVJ0HKY40U97DiFu2Zw",
+        "url": "https://www.youtube.com/channel/UCHYrzVJ0HKY40U97DiFu2Zw"
+      },
+      "description": "DAL BHAT TARKARI Hari Bansha, Niruta, Pushpa, Barsha, Aanchal\n\nMaha Sanchar Proudly Presents\nKiran K.C's DAL BHAT TARKARI\n\nStarring: \nMadan Krishna Shrestha, Hari Bansha Acharya, Niruta Singh, Pushpa Khadka, Aanchal Sharma, Barsha Raut, Mohit Bansha Acharya, Kiran K.C., Rajaram Paudyal, Basundhara Bhusal, Jayananda Lama, Shivahari Poudel, Robin Tamang, Sishir Bangdel, Wilson Bikram Rai, Dhanaram K.C., Kiran Maharjan, Sajan Thapa, Dolma Sherpa,  Sagar Ghimire, Deepak Adhikari and Kali\n\nSpecial Ap",
+      "publishedDate": "2020-12-10T08:22:49Z",
+      "year": 2020,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 15143765,
+      "likes": 139450,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 92.36
+      }
+    },
+    {
+      "id": "E4IhWK1459M",
+      "title": "Gharjwai - New Nepali 2082 - Dayahang Rai, Miruna Magar #nepalimovie #NEWNEPALIMOVIE",
+      "youtubeVideoId": "E4IhWK1459M",
+      "youtubeUrl": "https://www.youtube.com/watch?v=E4IhWK1459M",
+      "thumbnail": "https://i.ytimg.com/vi/E4IhWK1459M/hqdefault.jpg",
+      "creator": {
+        "name": "Budha Subba Digital",
+        "channelId": "UCNR1KcWXj7zpWQFJtU3ddYg",
+        "url": "https://www.youtube.com/channel/UCNR1KcWXj7zpWQFJtU3ddYg"
+      },
+      "description": "Gharjwai - New Nepali Full Movie 2082 - Dayahang Rai, Miruna Magar\n\nCast : Dayahang Rai, Miruna Magar, Shishir Bangdel, Raj Thapa Magar, Kabita Ale Magar, Buddhi Tamang\nPushkar Gurung, Anu Thapa, Sunil Magar, Bhola Raj Sapkota, Kha Ba Pu Pun, Beena Thapa Magar, Suresh Pun,\nShila Ale Khanal, Bibesh Budha Magar, Sonam Lama\n\nMusic : Manoj Thapa Magar / Sd Yogi\nLyrics : Hark Saud / Ram Abiral Bista\nBackground Score : Kobid Bazra\nArranger/Mix/Master : Zanrix\nPublicity Design : Rakesh Dahal\nDistributi",
+      "publishedDate": "2025-04-14T08:15:06Z",
+      "year": 2025,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 11549693,
+      "likes": 236596,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 92.21
+      }
+    },
+    {
+      "id": "yDp15-gHRtU",
+      "title": "Mansarra | New Nepali 2025 | Dayahang Rai, Miruna Magar, Praveen Khatiwada,Menuka Pradhan",
+      "youtubeVideoId": "yDp15-gHRtU",
+      "youtubeUrl": "https://www.youtube.com/watch?v=yDp15-gHRtU",
+      "thumbnail": "https://i.ytimg.com/vi/yDp15-gHRtU/hqdefault.jpg",
+      "creator": {
+        "name": "G21 Digital",
+        "channelId": "UCmNQGuhWtf8yXjA30jWSUBA",
+        "url": "https://www.youtube.com/channel/UCmNQGuhWtf8yXjA30jWSUBA"
+      },
+      "description": "Mansara, a particular type of peddy, is believed to not grow alone and thus its seeds are mixed with other species before planting. In some regions, it's also referred to as 'Faudel Mansara'. \nHowever, this movie suggests the possibility of independent growth for Mansara.\n\nCast: Dayahang Rai, Miruna Magar, Praveen Khatiwada, Menuka Pradhan, Shanti Giri, Hemanta Budhathoki, Nenahang Rai, Viplop Pratik, Jiban Baral, Subash Chandra Kharel,   Anil Subba\nLokmani Sapkota, Bidhya Karki, Laxman Bikram B",
+      "publishedDate": "2025-10-01T00:27:06Z",
+      "year": 2025,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 11334263,
+      "likes": 151881,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 90.45
+      }
+    },
+    {
+      "id": "4ohVTa35SaE",
+      "title": "Degree Maila (M.A 3rd Class), - Dayahang Rai - Bijay Baral - Aanchal Sharma",
+      "youtubeVideoId": "4ohVTa35SaE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4ohVTa35SaE",
+      "thumbnail": "https://i.ytimg.com/vi/4ohVTa35SaE/hqdefault.jpg",
+      "creator": {
+        "name": "Baasuri Films",
+        "channelId": "UCh5kdkoH3OUpMY5jg3zaJwQ",
+        "url": "https://www.youtube.com/channel/UCh5kdkoH3OUpMY5jg3zaJwQ"
+      },
+      "description": "​@BaasuriFilms Presents, Degree Maila (FULL NEPALI MOVIE).\nA Film By Ram Babu Gurung\n\nMovie: Degree Maila (MA 3rd CLASS)\n\nCast:\nDayahang Rai\nAanchal Sharma\nMaotse Gurung \nPrakash Ghimire\nBijay Baral\nBuddhi Tamang\nReecha Sharma\nKamal Mani Nepal\nShekhar Chapagain\nHiubala Gautam\nSom Nath Khanal\nPashupati Rai\nLokendra Lekhak\nAnil Subba\nGhanashyam Joshi\nSibadash Gurung\nBhuwan Luhar\nKrijan Mahat\nKalyan Rai\nSushil Tamang\nSuraj Yadav\n\nCinematographer: Shiva Ram Shrestha / Riley H. Shen  \nEditor: @Nimesh",
+      "publishedDate": "2025-03-10T13:00:09Z",
+      "year": 2025,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 11616586,
+      "likes": 153237,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 89.97
+      }
+    },
+    {
+      "id": "rwKZqvTaT70",
+      "title": "BEHULI from MEGHAULI | New Nepali (4K) | Swastima Khadka, Nischal Basnet, Simran, Rakshya",
+      "youtubeVideoId": "rwKZqvTaT70",
+      "youtubeUrl": "https://www.youtube.com/watch?v=rwKZqvTaT70",
+      "thumbnail": "https://i.ytimg.com/vi/rwKZqvTaT70/hqdefault.jpg",
+      "creator": {
+        "name": "OSR Movies",
+        "channelId": "UCMJB4t_DykIriYit14RA2lQ",
+        "url": "https://www.youtube.com/channel/UCMJB4t_DykIriYit14RA2lQ"
+      },
+      "description": "BEHULI from MEGHAULI || New Nepali Official Full Movie (4K) 2026 || Swastima Khadka, Nischal Basnet, Simran Khadka, Basundhara Bhusal, Bijay Baral, Rakshya Thapa, Lokendra Lekhak etc.\n\nA presentation of Black Horse Pictures & Meghauli Films\n\nMovie: Behuli from Meghauli (Blockbuster Nepali Movie)\n\n==================================\n\nFilm Credit\n\nMovie: Behuli From Meghauli\nActor: Swastima Khadka, Nischal Basnet, Basundhara Bhusal, Bijay Baral, Rakshya Thapa, Lokendra Lekhak, Siru Bista, Amir Gaut",
+      "publishedDate": "2026-08-09T09:15:06Z",
+      "year": 2026,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 5957080,
+      "likes": 114674,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 89.8
+      }
+    },
+    {
+      "id": "SLTQeRlb0dk",
+      "title": "JATRA | New Nepali 2018 Ft. Bipin Karki, Rabindra Singh Baniya, Rabindra Jha",
+      "youtubeVideoId": "SLTQeRlb0dk",
+      "youtubeUrl": "https://www.youtube.com/watch?v=SLTQeRlb0dk",
+      "thumbnail": "https://i.ytimg.com/vi/SLTQeRlb0dk/hqdefault.jpg",
+      "creator": {
+        "name": "Highlights Movies",
+        "channelId": "UC08i2mnmdrJwu-Lq4zDZKYg",
+        "url": "https://www.youtube.com/channel/UC08i2mnmdrJwu-Lq4zDZKYg"
+      },
+      "description": "JATRA | New Nepali Full Movie 2018 Ft. Bipin Karki, Rabindra Singh Baniya, Rabindra Jha\n\nSynopsis: Phadindra Timsina (Bipin Karki) is an innocent, poor and hardworking man. He finds a sack full of three crores Nepalese rupees, stolen from a bank. He then consults with his three friends Jayas (Rabindra Singh Baniya) and Munna (Rabindra Jha) in order to discover the source of the money.\n\nShatkon Arts Production Presents \nNepali Full Movie: JATRA\n\nWriter/Director: Pradeep Bhattarai\nExecutive Produc",
+      "publishedDate": "2018-02-02T12:27:29Z",
+      "year": 2018,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 13384843,
+      "likes": 85203,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 87.36
+      }
+    },
+    {
+      "id": "iysXrJDhkRc",
+      "title": "Dewar Babu || Biraj Bhatta, Rekha Thapa, Ramit Dhungana, Tripti Nadkar",
+      "youtubeVideoId": "iysXrJDhkRc",
+      "youtubeUrl": "https://www.youtube.com/watch?v=iysXrJDhkRc",
+      "thumbnail": "https://i.ytimg.com/vi/iysXrJDhkRc/hqdefault.jpg",
+      "creator": {
+        "name": "OSR Movies",
+        "channelId": "UCMJB4t_DykIriYit14RA2lQ",
+        "url": "https://www.youtube.com/channel/UCMJB4t_DykIriYit14RA2lQ"
+      },
+      "description": "Nepali Movie - Dewar Babu Full Movie || Biraj Bhatta, Rekha Thapa, Ramit Dhungana, Tripti Nadkar\n\nKotki Kalia devi Films ( KKD Films)\nKesab Bhattrai Presents\nMovie :  Dewar Babu\nCast : Biraj Bhatta, Ramit Dhungana, Rekha Thapa, Tripti Nadkar, Arjun Shrestha, Ashok Sharma, Hemant Budhathoki\nDirector : Gyanendra Deuja\nPresenter : Keshab Bhattarai\nStory : Suraj Subba Nalbo\nScreenplay : Pradeep Bhardwaj\nDialogue : Pradeep Bhardwaj\nCinematography : Dirgha Gurung\nEditor : Rajani Panta\nLyricist : Pramo",
+      "publishedDate": "2020-07-12T07:29:55Z",
+      "year": 2020,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 13661953,
+      "likes": 66065,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 87.19
+      }
+    },
+    {
+      "id": "V06uqRkQEMs",
+      "title": "GAULE - \"गाउँले\" | Nepali 2023 | Rajesh Hamal, Deepa Shree Niraula & Bipana Thapa",
+      "youtubeVideoId": "V06uqRkQEMs",
+      "youtubeUrl": "https://www.youtube.com/watch?v=V06uqRkQEMs",
+      "thumbnail": "https://i.ytimg.com/vi/V06uqRkQEMs/hqdefault.jpg",
+      "creator": {
+        "name": "AB Pictures Farm",
+        "channelId": "UCokISoT70aJuMnIGRUZ6Kkg",
+        "url": "https://www.youtube.com/channel/UCokISoT70aJuMnIGRUZ6Kkg"
+      },
+      "description": "GAULE - Nepali Full Movie 2019/2076 | Rajesh Hamal, Deepa Shree Niraula & Bipana Thapa \n\n#SupperHitNepaliMovie #NepaliMovie #RajeshHamal\n\nCast- Rajesh Hamal,  Bipana Thapa,  Raja Ram Poudel,  Mohan misra,  Gauri Mall ,  Dipa Sri Niraula,  Sunil Thapa, Dipak Shrestha,  Nilam Khanal,  Suresh Bhatt,  Nobel Nepal,  Arjun Adhikari\nLight Man- Ratna,  Kiran,  Bhojraj,  Didya,  Ashok,  Naryan\nlyrics - Dinesh Adhikari,  Dhanendar Bimal,  Bhupal Rai\nPlayback Singer - Ramkrisna Dhakal,  Yam Baral,  Aandha ",
+      "publishedDate": "2017-11-29T04:28:33Z",
+      "year": 2017,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 13160590,
+      "likes": 57522,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 85.5
+      }
+    },
+    {
+      "id": "s2xL2wyllR8",
+      "title": "DAYARANI || New Nepali 2025 | Dayahang Rai | Bijay Baral | Diya Pun | Shrisha",
+      "youtubeVideoId": "s2xL2wyllR8",
+      "youtubeUrl": "https://www.youtube.com/watch?v=s2xL2wyllR8",
+      "thumbnail": "https://i.ytimg.com/vi/s2xL2wyllR8/hqdefault.jpg",
+      "creator": {
+        "name": "HighlightsNepal",
+        "channelId": "UCrzyJYtjLOTfnUur8hsr7ow",
+        "url": "https://www.youtube.com/channel/UCrzyJYtjLOTfnUur8hsr7ow"
+      },
+      "description": "DAYARANI || New Nepali Full Movie 2025 | Dayahang Rai | Bijay Baral | Diya Pun | Shrisha\n\nMaotse Gurung Films Production\nBaasuri Films Presents!\nNepali Movie \"DAYARANI\"\n\n►CAST: DAYA HANG RAI, DIYA PUN, BIJAY BARAL, PRAMISH GURUNG,SHRISHA KUNWAR, NAYAN GURUNG, PUSKAR GURUNG, TIKA RAM GHALE, SURYA SUNWAR, RAJENDRA THAPA, SITA DEVI GURUNG, KRISHTI GURUNG\n\n►GUEST APPEARANCE: BUDDHI TAMANG \n \n►CINEMATOGRAPHER: SHAILENDRA D KARKI \n\n►EDITOR: RAJEN PUWER, NIMESH SHRESTHA \n\n►CASTING DIRECTOR: MANI RAM PO",
+      "publishedDate": "2025-12-15T09:15:07Z",
+      "year": 2025,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 8465503,
+      "likes": 107032,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 84.63
+      }
+    },
+    {
+      "id": "imRceQ7LLa8",
+      "title": "PUJAR SARKI || Nepali 2026 || Aryan Sigdel, Pradeep Khadka, Paul Shah, Anjana, Parikshya",
+      "youtubeVideoId": "imRceQ7LLa8",
+      "youtubeUrl": "https://www.youtube.com/watch?v=imRceQ7LLa8",
+      "thumbnail": "https://i.ytimg.com/vi/imRceQ7LLa8/hqdefault.jpg",
+      "creator": {
+        "name": "OSR Movies",
+        "channelId": "UCMJB4t_DykIriYit14RA2lQ",
+        "url": "https://www.youtube.com/channel/UCMJB4t_DykIriYit14RA2lQ"
+      },
+      "description": "Official Full Movie PUJAR SARKI || New Superhit Nepali Full Movie 2026 / 2083 || Aryan Sigdel, Pradeep Khadka, Paul Shah, Anjana Baraili, Parikshya Limbu || Pujar Sarki Nepali Full Movie\n\nKINGDOM NETWORK Presents\nM&M Entertainments\n\nMovie: PUJAR SARKI (पुजार सार्की)\nDirection: Dinesh Raut\nDigital Rights: OSR Digital\n\nArtists: Aryan Sigdel, Pradeep Khadka, Paul Shah, Anjana Baraili, Parikshya Limbu, Prem Subba, Lokendra Lekhak, Mohan Niraula, Subash Gajurel, Tara Sharma, Bidhya Karki, Shankar Ach",
+      "publishedDate": "2026-05-06T10:15:07Z",
+      "year": 2026,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 7157275,
+      "likes": 104661,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 84.15
+      }
+    },
+    {
+      "id": "5E-wEcf3t1Y",
+      "title": "Garud Puran - New Nepali 2023 | Najir Husen | Karma | Kameshwor Chaurasiya",
+      "youtubeVideoId": "5E-wEcf3t1Y",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5E-wEcf3t1Y",
+      "thumbnail": "https://i.ytimg.com/vi/5E-wEcf3t1Y/hqdefault.jpg",
+      "creator": {
+        "name": "HighlightsNepal",
+        "channelId": "UCrzyJYtjLOTfnUur8hsr7ow",
+        "url": "https://www.youtube.com/channel/UCrzyJYtjLOTfnUur8hsr7ow"
+      },
+      "description": "Garud Puran - New Nepali Full Movie 2023 | Najir Husen | Karma | Kameshwor Chaurasiya\n\nAjit Films Presents,\nIn Association With Ashok Gautam Films,\nNew Nepali Movie \"GARUD PURAN\"\n\nCast: Karma Shakya, Najir Husen, Priyanka Singh Thakuri, Kameshwor Chaurasyia, Prabin Khatiwada, Prakash Ghimire, Rashmi Bhatta, Loonibha Tuladhar, Basanta Bhatta, Krishna Bhakta Maharjan, Janawi Bohara, Kamal Pyasi Devkota, Saroj Shrestha, Keshab Singh Thagunna, Sagar Dhakal, Ganesh Bashyal\n\nChief Asst.Director: Bibek",
+      "publishedDate": "2023-12-08T09:15:11Z",
+      "year": 2023,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 9421279,
+      "likes": 89305,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 82.9
+      }
+    },
+    {
+      "id": "Wz5V2fatUrU",
+      "title": "Pinjada Back Again || Nepali || Nikhil Upreti, Sara Shirpaili",
+      "youtubeVideoId": "Wz5V2fatUrU",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Wz5V2fatUrU",
+      "thumbnail": "https://i.ytimg.com/vi/Wz5V2fatUrU/hqdefault.jpg",
+      "creator": {
+        "name": "Budha Subba Digital",
+        "channelId": "UCNR1KcWXj7zpWQFJtU3ddYg",
+        "url": "https://www.youtube.com/channel/UCNR1KcWXj7zpWQFJtU3ddYg"
+      },
+      "description": "Pinjada Back Again || Nepali Full Movie || Nikhil Upreti, Sara Shirpaili\n::::::::::::::::::::::::::::::::::::::::::::::::\nOm Sai Maulakalika Cine Arts Association with Om Sai Bhakta Movie Presents\nPINJADA Back Again\n \nPresenter: Shreeram Baral\n\n►Starting: Nikhil Uprety ,Sara Shirpaili,Sushmita KC, Pukar Bhattarai,Jack Shrestha, Kushagraha Bhattarai Sound & Mixing: Mukesh Shah\n►Background Score: Ramji Lamichhane\n►Sound Design/Mixing: Mukesh Shah\n►Choreography: Ramji Lamichhane\n►Lyrics: Krishna Ha",
+      "publishedDate": "2019-10-05T08:15:12Z",
+      "year": 2019,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 8666299,
+      "likes": 129234,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 82.04
+      }
+    },
+    {
+      "id": "Hpgp6I-4WJc",
+      "title": "Pashupati Prasad () Khagendra Lamichhane, Barsha Shiwakoti | Nepali Superhit",
+      "youtubeVideoId": "Hpgp6I-4WJc",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Hpgp6I-4WJc",
+      "thumbnail": "https://i.ytimg.com/vi/Hpgp6I-4WJc/hqdefault.jpg",
+      "creator": {
+        "name": "HighlightsNepal",
+        "channelId": "UCrzyJYtjLOTfnUur8hsr7ow",
+        "url": "https://www.youtube.com/channel/UCrzyJYtjLOTfnUur8hsr7ow"
+      },
+      "description": "Pashupati Prasad (Full Movie) Khagendra Lamichhane, Barsha Shiwakoti | Nepali Superhit Full Movie\n\nTukee Arts & Dipendra K. Khanal Production Presents !!!\nNew Nepali Movie: PASHUPATI PRASAD\n\nStarring: Khagendra lamichhane, Barsha Shiwakoti, Bipin Karki, Prakash Ghimire, Rabindra Singh Baniya, Mishree Thapa, Ashish Adhikari, Jack Shrestha\nMusic: Hari Lamsal\nAction: Surya Thokar\nCinematographer: Nijaj Kadel\nEditor: Dirgha Khadka\nExecutive Producer: Rojina Sitaula\nCo-Producer: Arjun Karki (swami), ",
+      "publishedDate": "2016-10-07T05:32:46Z",
+      "year": 2016,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 9944837,
+      "likes": 87246,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 81.96
+      }
+    },
+    {
+      "id": "Ox7BxDhevYU",
+      "title": "BANDHAKI | बन्धकी | Nepali | Dilip Rayamajhi | Biren Shrestha | Niruta Singh |Geeta Shahi",
+      "youtubeVideoId": "Ox7BxDhevYU",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Ox7BxDhevYU",
+      "thumbnail": "https://i.ytimg.com/vi/Ox7BxDhevYU/hqdefault.jpg",
+      "creator": {
+        "name": "HiTechEntertainment",
+        "channelId": "UCd97ukfGaYt4LKtIgKm9Vhw",
+        "url": "https://www.youtube.com/channel/UCd97ukfGaYt4LKtIgKm9Vhw"
+      },
+      "description": "➤Video Provided By: BIG FILMS\n➤Casts: Dilip Raymajhi, Niruta Singh, Biren Singh, Geeta Shahi, Kabita Aale, & Kamal Krishna etc\n➤Choreography: Shanta Nepali, Kamal Rai\n➤Action: N.B Maharjan\n➤Editor: Banish Shah\n➤Cinematography: Dirgha Gurung\n➤Lyrics: Dr. Anant Adhikari, Ek Narayan Bhandari, Prem Dev Giri, Suresh Adhikari, Kulman Nepali\n➤Singers: Rajesh Paayal Rai, Sangita Rana Pradhan, Rima Gurun, Thupten, Arjun Nepali\n➤Music: Suresh Adhikari\n➤Story: Naru Thapa\n➤Screen Play/Dialogue: Yugesh Rayam",
+      "publishedDate": "2020-07-02T03:47:21Z",
+      "year": 2020,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 10286578,
+      "likes": 52200,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 81.02
+      }
+    },
+    {
+      "id": "3EYKdRY1-Xw",
+      "title": "New Nepali 2080 | Chhakka Panja 3 | Deepak, Deepika, Priyanka, Kedar, Jeetu, Buddhi",
+      "youtubeVideoId": "3EYKdRY1-Xw",
+      "youtubeUrl": "https://www.youtube.com/watch?v=3EYKdRY1-Xw",
+      "thumbnail": "https://i.ytimg.com/vi/3EYKdRY1-Xw/hqdefault.jpg",
+      "creator": {
+        "name": "Highlights Movies",
+        "channelId": "UC08i2mnmdrJwu-Lq4zDZKYg",
+        "url": "https://www.youtube.com/channel/UC08i2mnmdrJwu-Lq4zDZKYg"
+      },
+      "description": "New Nepali Full Movie 2080 | Chhakka Panja 3 | Deepak, Deepika, Priyanka, Kedar, Jeetu, Buddhi\n\nAama Saraswati Movies Presents!\nDeepak Deepa's\nNew Nepali Movie \"CHHAKKA PANJA 3\"\n\nCast : Deepak Raj Giri, Deepika Prasain, Priyanka Karki, Kedar Prasad Ghimire (Magne Buda), Jeetu Nepal (Mundre), Neer Shah, Shiva Hari Paudel, Kiran KC, Buddhi Tamang, Anurag Kunwar, Laxmi Giri, Wilson Rai, Jay Nanda Lama, Sarada Giri, Bimala Giri, Basanta Bhatta, Suman Giri 'Bhanja', Sanjok Koirala\nPublicity Design: T",
+      "publishedDate": "2023-12-06T10:52:06Z",
+      "year": 2023,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 9531602,
+      "likes": 53134,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 80.93
+      }
+    },
+    {
+      "id": "LfyZ9ajZtfA",
+      "title": "DEUTA | देउता | Nepali | Rajesh Hamal | Srijana Basnet | Shrawan Ghimire | Tulsi Ghimire",
+      "youtubeVideoId": "LfyZ9ajZtfA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=LfyZ9ajZtfA",
+      "thumbnail": "https://i.ytimg.com/vi/LfyZ9ajZtfA/hqdefault.jpg",
+      "creator": {
+        "name": "HiTechEntertainment",
+        "channelId": "UCd97ukfGaYt4LKtIgKm9Vhw",
+        "url": "https://www.youtube.com/channel/UCd97ukfGaYt4LKtIgKm9Vhw"
+      },
+      "description": "Video Provided By: OM MUSIC\n\"DEUTA\" is a Nepali film written and directed by Tulsi Ghimire and released in 1991. It starred Rajesh Hamal, Shrawan Ghimire and Srijana Basnet in lead roles. Many consider the performance by Rajesh Hamal in this movie his career best.\nThe film starts with the marriage discussion of Srijana (Srijana Basnet), an amateur painter with her father (Tulsi ghimire). She hesitates to marry the only son of her father's business partner. Instead she want to learn some more pai",
+      "publishedDate": "2015-10-05T02:21:13Z",
+      "year": 2015,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 10286938,
+      "likes": 57676,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 80.72
+      }
+    },
+    {
+      "id": "JJAsMFupXeA",
+      "title": "PRASAD 2 || Nepali 2026 || Bipin Karki, Keki Adhikari, Arpan Thapa, Mahesh Tripathi",
+      "youtubeVideoId": "JJAsMFupXeA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=JJAsMFupXeA",
+      "thumbnail": "https://i.ytimg.com/vi/JJAsMFupXeA/hqdefault.jpg",
+      "creator": {
+        "name": "OSR Movies",
+        "channelId": "UCMJB4t_DykIriYit14RA2lQ",
+        "url": "https://www.youtube.com/channel/UCMJB4t_DykIriYit14RA2lQ"
+      },
+      "description": "New Nepali Full Movie PRASAD 2 || 2026 / 2083 || Bipin Karki, Keki Adhikari, Arpan Thapa, Mahesh Tripathi\n\nA Shuvash Thapa Presentation\nMovie: \"Prasad 2\"\n\nMOVIE: PRASAD 2\nCAST: BIPIN KARKI / KEKI ADHIKARI /ARPAN THAPA / MAHESH TRIPATHI \nDOP: RAJESH SHRESTHA \nCHOREOGRAPHER: VIKRAM SWAR\nWRITER: SUSHIL POUDEL \nEDITOR: MILAN SHRESTHA \nCOLORIST: RAJENDRA MOKTAN \nART DIRECTOR: SAJAN THAPA \nSYNC SOUND / SOUND DESIGN: UTTAM NEUPANE, CAS \nBACKGROUND SCORE: SAILESH SHRESTHA \nSINGERS: RAJAN RAJ SIWAKOTI, M",
+      "publishedDate": "2026-07-20T09:17:16Z",
+      "year": 2026,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 4545803,
+      "likes": 60621,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 79.59
+      }
+    },
+    {
+      "id": "0MvTiC1yChI",
+      "title": "DHADKAN - Nepali || Rekha Thapa, Nikhil Upreti, Arunima Lamsal, Ramit Dhungana",
+      "youtubeVideoId": "0MvTiC1yChI",
+      "youtubeUrl": "https://www.youtube.com/watch?v=0MvTiC1yChI",
+      "thumbnail": "https://i.ytimg.com/vi/0MvTiC1yChI/hqdefault.jpg",
+      "creator": {
+        "name": "OSR Movies",
+        "channelId": "UCMJB4t_DykIriYit14RA2lQ",
+        "url": "https://www.youtube.com/channel/UCMJB4t_DykIriYit14RA2lQ"
+      },
+      "description": "DHADKAN - Nepali Official Full Movie || Rekha Thapa, Nikhil Upreti, Arunima Lamsal, Ramit Dhungana, Dinesh Sharma\n\nMovie: Dhadkan\nDigital Rights: OSR Digital\nCast: Rekha Thapa, Arunima Lamsal, Nikhil Upreti, Ramit Dhungana, Ujjawal Ghimire, Mukunda Shrestha, Dinesh Sharma, Ramchandra Poudel\nDirector: Naresh Poudel\nProducer: Naresh Poudel\nStory: Naresh Poudel\nScreenplay: Maunata Shrestha\nDialogue: Maunata Shrestha\nCinematographer: Raju Bikram Thapa\nEditor: Tara Thapa (Kimbhe), Banish Shah\nLyricis",
+      "publishedDate": "2023-12-25T08:47:29Z",
+      "year": 2023,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 8618462,
+      "likes": 53877,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 79.37
+      }
+    },
+    {
+      "id": "ibP5LOY9MGs",
+      "title": "Chha Ekan Chha () Neeta, Deepakraj, Jitu, Shivahari, Kedar, Sandip | New Nepali",
+      "youtubeVideoId": "ibP5LOY9MGs",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ibP5LOY9MGs",
+      "thumbnail": "https://i.ytimg.com/vi/ibP5LOY9MGs/hqdefault.jpg",
+      "creator": {
+        "name": "HighlightsNepal",
+        "channelId": "UCrzyJYtjLOTfnUur8hsr7ow",
+        "url": "https://www.youtube.com/channel/UCrzyJYtjLOTfnUur8hsr7ow"
+      },
+      "description": "CHHA EKAN CHHA | Superhit Nepali Full Movie Ft. Nita Dhungana, Deepakraj Giri, Jitu Nepal, Shivahari Paudel, Raj Ballav Koirala, Kedar Prasad Ghimire, Sandip Chhetri\n\nMovie: CHHA EKAN CHHA\nDirector: Dinesh D.C\nProducer: Deepakraj Giri, Dipashree Nirula , Niramal Sharma\nStory: Deepakraj Giri\nCast: Nita Dhungana, Deepakraj Giri, Kiran KC, Jitu Nepal, Kedar Ghimire, Sandip Chhetri, Shivahari Paudel, Raj Ballav Koirala, \n\nNepali movie ‘Chha Ekan Chha’ is a comedy film by the well known comedy actors",
+      "publishedDate": "2015-05-12T01:45:00Z",
+      "year": 2015,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 9616961,
+      "likes": 45904,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 78.66
+      }
+    },
+    {
+      "id": "V897s9J0FII",
+      "title": "Pitambar New Nepali - Pradeep Khadka, Dayahang Rai, Saugat Malla, Divya Rai Majhi",
+      "youtubeVideoId": "V897s9J0FII",
+      "youtubeUrl": "https://www.youtube.com/watch?v=V897s9J0FII",
+      "thumbnail": "https://i.ytimg.com/vi/V897s9J0FII/hqdefault.jpg",
+      "creator": {
+        "name": "Budha Subba Digital",
+        "channelId": "UCNR1KcWXj7zpWQFJtU3ddYg",
+        "url": "https://www.youtube.com/channel/UCNR1KcWXj7zpWQFJtU3ddYg"
+      },
+      "description": "Pitambar New Nepali Full Movie - Pradeep Khadka, Dayahang Rai, Saugat Malla, Divya Rai Majhi\n===========\nKP FILMS PRESENTS IN  ASSOCIATION WITH PURUSHOTTAM PRADHAN FILMS \nDIRECTOR\nKrisha Chaulagain \n\nPRODUCER \nBishal Chaulagai\n\nCO-PRODUCER\nPurushottam Pradhan\nAadhya Lamichhane\nAaroh Chaulagain  \n\nEXECUTIVE PRODUCER\nSuman Gautam \n\nCAST\nPradeep Khadka\nDayahang Rai\nSaugaat Malla\nAaryan Sigdel\nAnoop Bikram Shahi\nSurakshya Panta\nGauri Malla \nRabindra Jha\nPrammod Agrahari\nKameshwor Chaurasiya\nTika Pah",
+      "publishedDate": "2026-06-19T08:15:06Z",
+      "year": 2026,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 3990212,
+      "likes": 92825,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 78.21
+      }
+    },
+    {
+      "id": "ktAf6kv_yLA",
+      "title": "NIKHIL DAI - Nepali || Rajesh Hamal, Nikhil Upreti, Rekha Thapa, Dilip Rayamajhi",
+      "youtubeVideoId": "ktAf6kv_yLA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ktAf6kv_yLA",
+      "thumbnail": "https://i.ytimg.com/vi/ktAf6kv_yLA/hqdefault.jpg",
+      "creator": {
+        "name": "OSR Movies",
+        "channelId": "UCMJB4t_DykIriYit14RA2lQ",
+        "url": "https://www.youtube.com/channel/UCMJB4t_DykIriYit14RA2lQ"
+      },
+      "description": "NIKHIL DAI - Nepali Official Full Movie || Rajesh Hamal, Nikhil Upreti, Rekha Thapa, Dilip Rayamajhi, Garima Panta, Jay Kishan Basnet, Dinesh Sharma, Ravi Giri\n\nMovie: Nikhil Dai\nDigital Rights: OSR Digital\nCast: Rajesh Hamal, Nikhil Upreti, Rekha Thapa, Dilip Rayamajhi, Garima Panta, Ravi Giri, Basundhara Bhusal, Jay Kishan Basnet, Dinesh Sharma\nDirector: Krishna Chapagain\nProducer: Krishna Chapagain\nStory: Maunta Shrestha\nScreenplay: Krishna Chapagain\nEditor: Banish Shah\nMusic Director: Chetan",
+      "publishedDate": "2023-12-28T08:22:28Z",
+      "year": 2023,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 7841670,
+      "likes": 42408,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 76.95
+      }
+    },
+    {
+      "id": "jg4jCESywjM",
+      "title": "Sathi | साथी | Nepali | Rajesh Hamal | Karishma Manandhar | Nir Shah | Gauri Malla",
+      "youtubeVideoId": "jg4jCESywjM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=jg4jCESywjM",
+      "thumbnail": "https://i.ytimg.com/vi/jg4jCESywjM/hqdefault.jpg",
+      "creator": {
+        "name": "HiTechEntertainment",
+        "channelId": "UCd97ukfGaYt4LKtIgKm9Vhw",
+        "url": "https://www.youtube.com/channel/UCd97ukfGaYt4LKtIgKm9Vhw"
+      },
+      "description": "Video Provided by: BIG FILMS\n\"SAATHI\" is a social movie,with comedy, Action Revenge. Presented by Mansarowar Films P.LTD is directed by Laxmi Nath Sharma. The star cast includes Rajesh Hamal, Karishma Manandhar, Gauri Malla, Nir Shah, Basundhara Bhushal, Mithila Sharma and others.\nDialogue: Laxmi Nath Sharma/Abinash Shrestha\nEditor: Rajani Natha Panta\nAction: Rajendra Khadgi\nChoreography: Basanta Shrestha\nStory/Lyrics : Dr. Bhola Rijal\nMusic: Shambhujit Baskota\nCinematography: Murari Thakur\nProd",
+      "publishedDate": "2020-05-22T13:47:06Z",
+      "year": 2020,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 8017568,
+      "likes": 44851,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 76.3
+      }
+    },
+    {
+      "id": "YwLwqef0Uqs",
+      "title": "JAYA SHIVA SHANKAR - Nepali || Rajesh Hamal, Nikhil Upreti, Biraj Bhatta, Rajesh",
+      "youtubeVideoId": "YwLwqef0Uqs",
+      "youtubeUrl": "https://www.youtube.com/watch?v=YwLwqef0Uqs",
+      "thumbnail": "https://i.ytimg.com/vi/YwLwqef0Uqs/hqdefault.jpg",
+      "creator": {
+        "name": "OSR Movies",
+        "channelId": "UCMJB4t_DykIriYit14RA2lQ",
+        "url": "https://www.youtube.com/channel/UCMJB4t_DykIriYit14RA2lQ"
+      },
+      "description": "JAYA SHIVA SHANKAR - Nepali Official Full Movie || Rajesh Hamal, Mithila Sharma, Nikhil Upreti, Biraj Bhatta, Rajesh Dhungana, Sanchita Luitel, Rejina Upreti, Pujana Pradhan, Sangam Bista, Umesh Khadka\n\nHari Om Cine Makers Pvt. Ltd Presents\n\nMovie: Jaya Shiva Shankar\nDigital Rights: OSR Digital\nCast: Rajesh Hamal, Mithila Sharma, Nikhil Upreti, Biraj Bhatta, Rajesh Dhungana, Sanchita Luitel, Rejina Upreti, Pujana Pradhan, Sangam Bista, Umesh Khadka\nDirector: Rajendra Uprety\nProducer: Sushil Pokh",
+      "publishedDate": "2023-12-14T09:00:19Z",
+      "year": 2023,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 7232730,
+      "likes": 42306,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 75.69
+      }
+    },
+    {
+      "id": "jlR3T0r7exw",
+      "title": "CHINO - चिनो - Nepali 2023 | Shiva Shrestha, Bhuwan KC & Sunil Thapa",
+      "youtubeVideoId": "jlR3T0r7exw",
+      "youtubeUrl": "https://www.youtube.com/watch?v=jlR3T0r7exw",
+      "thumbnail": "https://i.ytimg.com/vi/jlR3T0r7exw/hqdefault.jpg",
+      "creator": {
+        "name": "AB Pictures Farm",
+        "channelId": "UCokISoT70aJuMnIGRUZ6Kkg",
+        "url": "https://www.youtube.com/channel/UCokISoT70aJuMnIGRUZ6Kkg"
+      },
+      "description": "CHINO - चिनो - Nepali Full Movie 2020/2077 | Shiva Shrestha, Bhuwan KC, Sunil Thapa, Kristi Mainali &Tulsi Ghimire\n\n#NepaliMovie #MovieNepal #NepaliFilm\n\n© AB Pictures Farm\n\nChino had all the elements of an entertaining Nepali movie: action, story, romance and above all good music. Mohani Lagla Hai, sung by Narayan Gopal and Asha Bhosle, rocked the Nepali music charts for several months. Chino is often referred to as the Sholay of Nepali cinema. Film was comeback to Action king Shiv Shrestha aft",
+      "publishedDate": "2017-08-27T08:27:04Z",
+      "year": 2017,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 7696888,
+      "likes": 42568,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 75.02
+      }
+    },
+    {
+      "id": "oRjjJ5LkGPY",
+      "title": "LOOT | Nepali | Nischal Basnet | Saugat Malla | Dayahang Rai | Bipin Karki |Reecha Sharma",
+      "youtubeVideoId": "oRjjJ5LkGPY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=oRjjJ5LkGPY",
+      "thumbnail": "https://i.ytimg.com/vi/oRjjJ5LkGPY/hqdefault.jpg",
+      "creator": {
+        "name": "HiTechEntertainment",
+        "channelId": "UCd97ukfGaYt4LKtIgKm9Vhw",
+        "url": "https://www.youtube.com/channel/UCd97ukfGaYt4LKtIgKm9Vhw"
+      },
+      "description": "Kathmandu, the city of dreams and hopes. Kthamandu is home to the dreamers, it's the city achievers. Life blooms in Kathmandu, life gets destroyed in Kathmandu. Some win shile the others lose. Some find luck easily, While some struggle the hard way.\nLoot is the story for five guys who find quick ways success and accomplishement. It a quest for quick money and better life. In a place where the crime rates are ascending day by day, Loot draws a reality check on the present security system of the c",
+      "publishedDate": "2014-12-09T15:50:46Z",
+      "year": 2014,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 7145413,
+      "likes": 46810,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 73.99
+      }
+    },
+    {
+      "id": "xSzT15vJhNY",
+      "title": "SAMJHANA - Nepali || Nikhil Upreti, Sanchita Luitel, Raj Ballav, Subash, Garima",
+      "youtubeVideoId": "xSzT15vJhNY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=xSzT15vJhNY",
+      "thumbnail": "https://i.ytimg.com/vi/xSzT15vJhNY/hqdefault.jpg",
+      "creator": {
+        "name": "OSR Movies",
+        "channelId": "UCMJB4t_DykIriYit14RA2lQ",
+        "url": "https://www.youtube.com/channel/UCMJB4t_DykIriYit14RA2lQ"
+      },
+      "description": "SAMJHANA - Nepali Official Full Movie || Nikhil Upreti, Sanchita Luitel, Raj Ballav Koirala, Subash Meche, Garima Panta, Pragya Joshi\n\nMovie: Samjhana\nDigital Rights: OSR Digital\nCast: Nikhil Upreti, Sanchita Luitel, Garima Panta, Subash Meche, Hemanta Budhathoki, Deshbhakta Khanal, Laxmi Giri, Wilson Bikram Rai, Raj Ballav Koirala, Pragya Joshi\nDirector: Yogesh Ghimire\nPresenter: Pragya Joshi\nStory: Pradeep Bhardwaj\nScreenplay: Pradeep Bhardwaj\nDialogue: Pradeep Bhardwaj\nCinematographer: Bhim R",
+      "publishedDate": "2023-12-18T08:27:48Z",
+      "year": 2023,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 6939043,
+      "likes": 29823,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 73.75
+      }
+    },
+    {
+      "id": "DJ-Q4rW4wzw",
+      "title": "Kasle Choryo Mero Man | Nepali | Rekha Thapa | Aaryan Sigdel | Nir Shah | chhabi raj ojha",
+      "youtubeVideoId": "DJ-Q4rW4wzw",
+      "youtubeUrl": "https://www.youtube.com/watch?v=DJ-Q4rW4wzw",
+      "thumbnail": "https://i.ytimg.com/vi/DJ-Q4rW4wzw/hqdefault.jpg",
+      "creator": {
+        "name": "HiTechEntertainment",
+        "channelId": "UCd97ukfGaYt4LKtIgKm9Vhw",
+        "url": "https://www.youtube.com/channel/UCd97ukfGaYt4LKtIgKm9Vhw"
+      },
+      "description": "Adi (Aaryan Sigdel) and Manavi (Rekha Thapa) are two pure souls who find each other one beautiful night in Kathmandu, and become bonded for life. But Princess Manavi's ruthless father, and Adi's equally ruthless poverty, continuously conspire to tear asunder the bond of love between Adi and Manavi.\nCasts: Aaryan Sigdel, Rekha Thapa, Kishor Khatiwada, B.S Rana, Nir Shah.\nLyrics: Kiran Kharel\nMusic: Suresh Adhikari\nC0-Producer: Chhabi Raj Ojha\nProducer: Dijendra Shakya\nAll Rights Reserved © Hi-Tec",
+      "publishedDate": "2017-10-18T18:15:00Z",
+      "year": 2017,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 6557961,
+      "likes": 45006,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 72.91
+      }
+    },
+    {
+      "id": "wFQY1QTrTkg",
+      "title": "BHAROSA || Nepali || Shree Krishna Shrestha, Dilip Rayamajhi, Usha, Nandita, Arunima",
+      "youtubeVideoId": "wFQY1QTrTkg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=wFQY1QTrTkg",
+      "thumbnail": "https://i.ytimg.com/vi/wFQY1QTrTkg/hqdefault.jpg",
+      "creator": {
+        "name": "OSR Movies",
+        "channelId": "UCMJB4t_DykIriYit14RA2lQ",
+        "url": "https://www.youtube.com/channel/UCMJB4t_DykIriYit14RA2lQ"
+      },
+      "description": "BHAROSA || Superhit Nepali Full Movie || Krishna Shrestha, Dilip Rayamajhi, Nandita KC, Usha Poudel, Arunima Lamsal, Rupa Rana, Sushil Pokharel, Rabi Giri, Keshab Bhattarai, Mithila Sharma || Dashain Special Movie 2025\n\nMovie: Bharosa\nCast: Shree Krishna Shrestha, Dilip Rayamajhi, Nandita KC, Usha Poudel, Arunima Lamsal, Rupa Rana, Sushil Pokharel, Rabi Giri, Keshab Bhattarai, Mithila Sharma etc.\nDirector: Rajendra Uprety\nProducer: Basanta Kumar Shrestha, Ramesh Twayana\nPresenter: Jaya Prakash R",
+      "publishedDate": "2025-09-28T10:59:45Z",
+      "year": 2025,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 5803149,
+      "likes": 26013,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 72.66
+      }
+    },
+    {
+      "id": "U4JwBSDcxfY",
+      "title": "IJJATDAR | Nepali | Rajesh Hamal, Biraj Bhatta, Arjun Karki, Arunima Lamsal",
+      "youtubeVideoId": "U4JwBSDcxfY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=U4JwBSDcxfY",
+      "thumbnail": "https://i.ytimg.com/vi/U4JwBSDcxfY/hqdefault.jpg",
+      "creator": {
+        "name": "OSR Movies",
+        "channelId": "UCMJB4t_DykIriYit14RA2lQ",
+        "url": "https://www.youtube.com/channel/UCMJB4t_DykIriYit14RA2lQ"
+      },
+      "description": "IJJATDAR | Nepali Official Full Movie | Rajesh Hamal, Biraj Bhatta, Arjun Karki, Arunima Lamsal, Bipana Thapa, Ranjana Sharma, Jaya Kishan Basnet, Kabita Khadka\n\nMovie: Ijjatdar\nDigital Rights: OSR Digital\nCast: Rajesh Hamal, Biraj Bhatta, Arjun Karki, Arunima Lamsal, Bipana Thapa, Ranjana Sharma, Jaya Kishan Basnet, Kabita Khadka\nDirector: Krishna Chapagain\nProducer: Krishna Chapagain\nStory: Krishna Chapagain\nScreenplay: Krishna Chapagain\nDialogue: Krishna Chapagain\nCinematographer: Krishna Shr",
+      "publishedDate": "2023-12-11T08:47:38Z",
+      "year": 2023,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 5935035,
+      "likes": 37547,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 72.41
+      }
+    },
+    {
+      "id": "bV2e2bnu9LQ",
+      "title": "MACHHA MACHHA || New Nepali 2024 | Saugat Malla, Bijay Baral, Dayahang Rai, Anoj Pandey",
+      "youtubeVideoId": "bV2e2bnu9LQ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=bV2e2bnu9LQ",
+      "thumbnail": "https://i.ytimg.com/vi/bV2e2bnu9LQ/hqdefault.jpg",
+      "creator": {
+        "name": "HighlightsNepal",
+        "channelId": "UCrzyJYtjLOTfnUur8hsr7ow",
+        "url": "https://www.youtube.com/channel/UCrzyJYtjLOTfnUur8hsr7ow"
+      },
+      "description": "MACHHA MACHHA || New Nepali Full Movie 2024 | Saugat Malla, Bijay Baral, Dayahang Rai, Anoj Pandey\n\nCinema Arts Presents!\nNaumati Entertainment Production,\nNew Nepal Movie \"MACHHA MACHHA\"\n\nCast: Saugat Malla, Namrata Shrestha, Bijaya Baral, Anoj Pandey, Maotse Gurung, Praveen Khatiwoda, Sarita Giri, Bhola Raj Sapkota, Puskar Gurung, Kamal Mani Nepal, Dhruva Koirala, Basanta Bhatta\nCinematographer: Shivaram Shrestha\nEditor: Nimesh Shrestha\nMusic: Anupam Sharma\nSound Design: Uttam Neupane\nBackgrou",
+      "publishedDate": "2024-12-06T11:45:06Z",
+      "year": 2024,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 5352507,
+      "likes": 40728,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 72.14
+      }
+    },
+    {
+      "id": "LWT4uLLDoeM",
+      "title": "Majhi Dai | माझी दाई ।Nepali | Rajesh Hamal | Dilip Rayamajhi | Sanchita Luitel",
+      "youtubeVideoId": "LWT4uLLDoeM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=LWT4uLLDoeM",
+      "thumbnail": "https://i.ytimg.com/vi/LWT4uLLDoeM/hqdefault.jpg",
+      "creator": {
+        "name": "HiTechEntertainment",
+        "channelId": "UCd97ukfGaYt4LKtIgKm9Vhw",
+        "url": "https://www.youtube.com/channel/UCd97ukfGaYt4LKtIgKm9Vhw"
+      },
+      "description": "Video Provided By: BiG FILMS\nLalima Films P. Ltd. presents\n MAJHI DAI (2004)\nStarring: Rajesh Hamal, Sanchita Luitel, Dilip Rayamajhi, Deepak Chhetri, Hemanta Budhathoki, Pushpa Shrestha, Arun Regmi, Mukti Upadhaya, Simpal Khanal etc.\nLyrics: Buddha Bir Lama, Bijaya Kerung\nMusic: Shambhu Rai\nCinematography: Shiva Ratna Dhakal\nEditors: Banish Shah, TaraThapa \"Kimbhe\"\nChoreographers: Kamal Rai, Pradeep Shrestha\nAction: N.B Maharjan\nScreenplay/Dialuoge: Mukti Upadhaya\nProducers: Karna Bahadur Basne",
+      "publishedDate": "2022-07-06T06:24:09Z",
+      "year": 2022,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 6188741,
+      "likes": 32189,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 71.75
+      }
+    },
+    {
+      "id": "fQ8FrrS0dPo",
+      "title": "KE MA TIMRO SATHI BANNA SAKCHHU || Aryan Sigdel, Dipti Giri",
+      "youtubeVideoId": "fQ8FrrS0dPo",
+      "youtubeUrl": "https://www.youtube.com/watch?v=fQ8FrrS0dPo",
+      "thumbnail": "https://i.ytimg.com/vi/fQ8FrrS0dPo/hqdefault.jpg",
+      "creator": {
+        "name": "OSR Movies",
+        "channelId": "UCMJB4t_DykIriYit14RA2lQ",
+        "url": "https://www.youtube.com/channel/UCMJB4t_DykIriYit14RA2lQ"
+      },
+      "description": "KE MA TIMRO SATHI BANNA SAKCHHU Nepali Full Movie || Aryan Sigdel, Dipti Giri || Ke Ma Timro Sathi Banna Sakchhu Superhit Nepali Movie || Aryan Sigdel, Dipti Giri, Shisir Rana, Kamala Regmi, Jiten Lama, Dhiren Shakya, Dinesh DC, Shishir Rana, Sandeep Sapkota\n\nMovie: Ke Ma Timro Sathi Banna Sakchhu\nDigital Rights: OSR Digital\nCast: Aryan Sigdel, Dipti Giri, Shisir Rana, Kamala Regmi, Jiten Lama, Dhiren Shakya, Dinesh DC, Shishir Rana, Sandeep Sapkota\nProducer: Krisha Chaulagain\nDirector: Shabir S",
+      "publishedDate": "2023-11-27T04:58:10Z",
+      "year": 2023,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 5516957,
+      "likes": 37823,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 71.44
+      }
+    },
+    {
+      "id": "T5lRykJCO0s",
+      "title": "SAPANA Full Video Songs Collection || Rajesh Hamal, Aaryan Sigdel, Nandita, Mahima",
+      "youtubeVideoId": "T5lRykJCO0s",
+      "youtubeUrl": "https://www.youtube.com/watch?v=T5lRykJCO0s",
+      "thumbnail": "https://i.ytimg.com/vi/T5lRykJCO0s/hqdefault.jpg",
+      "creator": {
+        "name": "OSR Movies",
+        "channelId": "UCMJB4t_DykIriYit14RA2lQ",
+        "url": "https://www.youtube.com/channel/UCMJB4t_DykIriYit14RA2lQ"
+      },
+      "description": "Nepali Movie SAPANA Full Video Jukebox || Rajesh Hamal, Aaryan Sigdel, Arjun Karki, Nandita KC, Mahima Giri || Dipak Limbu, Anju Panta || Sapana Nepali Movie Video Songs Collection\n\nVideos List:\n\n0. Intro - (00:00)\n\n1. Yo Mausam Yahi Bhanchha - (00:03)\nVocal: Anju Panta, Deepak Limbu\nCast: Aryan Sigdel, Mahima Giri\nLyrics: Dayaram Pandey\nMusic: Mahesh Khadka\n\n2. Ma Timrai Yaadma - (04:36)\nVocal: Deepak Limbu, Anju Panta\nCast: Aryan Sigdel, Nandita KC\nLyrics: Dayaram Pandey\nMusic: Mahesh Khadka\n\n",
+      "publishedDate": "2024-04-08T06:50:30Z",
+      "year": 2024,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 5628533,
+      "likes": 23283,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 70.07
+      }
+    },
+    {
+      "id": "D8Yyy8rR1AM",
+      "title": "MICHAEL ADHIKARI || New Nepali 2026 || Saugat Malla, Shristi Shrestha, Aashant, Loonibha",
+      "youtubeVideoId": "D8Yyy8rR1AM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=D8Yyy8rR1AM",
+      "thumbnail": "https://i.ytimg.com/vi/D8Yyy8rR1AM/hqdefault.jpg",
+      "creator": {
+        "name": "OSR Movies",
+        "channelId": "UCMJB4t_DykIriYit14RA2lQ",
+        "url": "https://www.youtube.com/channel/UCMJB4t_DykIriYit14RA2lQ"
+      },
+      "description": "MICHAEL ADHIKARI - माईकल अधिकारी || New Nepali Official Full Movie 2026 || Saugat Malla, Shristi Shrestha, Aashant Sharma, Loonibha Tuladhar, Anny Kunwar, Hemanta Budhathoki, Bidhya Karki, Jemima Toms, Dilip Bohora, Kendra Bhattarai || MICHAEL ADHIKARI New Nepali Full Movie 2026\n\n=======================================\n\nGOPI KRISHNA PRODUCTION\n\nUddhab Poudel Presents\nMICHAEL ADHIKARI\n\n=======================================\n\nMovie: MICHAEL ADHIKARI\nStory/Direction: Ranjeet Rauniyar\nProducer: Nir",
+      "publishedDate": "2026-04-03T09:15:06Z",
+      "year": 2026,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 3273959,
+      "likes": 37671,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 69.49
+      }
+    },
+    {
+      "id": "wKHReyh6lqI",
+      "title": "LAZZA || लज्जा || Nepali || Full HD",
+      "youtubeVideoId": "wKHReyh6lqI",
+      "youtubeUrl": "https://www.youtube.com/watch?v=wKHReyh6lqI",
+      "thumbnail": "https://i.ytimg.com/vi/wKHReyh6lqI/hqdefault.jpg",
+      "creator": {
+        "name": "Budha Subba Digital",
+        "channelId": "UCNR1KcWXj7zpWQFJtU3ddYg",
+        "url": "https://www.youtube.com/channel/UCNR1KcWXj7zpWQFJtU3ddYg"
+      },
+      "description": "Chabi Raj Ojha Presents\nNepali Movie LAZZA\nCasts: Aaryan Sigdel, Shilpa Pokharel, Mithila Sharma, Kiran KC\nProducer: Dijendra Shakya\nDirector: Nawal Nepal\nMusic: Chetan Sapkota\nLyrics: Kiran Kharel \nFight: Chandra Panta\nChoreographer: Kabiraj Gahatraj\nEditor: Ananta Thapaliya\nStory: Chabi Raj Ojha, Nawal Nepal\nCamera: Madan Kashyap Ghimire\nScript: Nawal Nepal\n\nSubscribe us in youtube Channel : http://www.youtube.com/user/budhasubbamusic?sub_confirmation=1\nFollow us on\nFacebook: https://www.faceb",
+      "publishedDate": "2015-08-20T16:45:56Z",
+      "year": 2015,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 4984699,
+      "likes": 27523,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 67.05
+      }
+    },
+    {
+      "id": "er7Pb0-ToHo",
+      "title": "Nepali - \"Kusume Rumal\" || Bhuwan K.C. Udit Nayaran Jha || Super Hit",
+      "youtubeVideoId": "er7Pb0-ToHo",
+      "youtubeUrl": "https://www.youtube.com/watch?v=er7Pb0-ToHo",
+      "thumbnail": "https://i.ytimg.com/vi/er7Pb0-ToHo/hqdefault.jpg",
+      "creator": {
+        "name": "OSR Digital",
+        "channelId": "UCxCoea3ulOukfXiYAm87ZIA",
+        "url": "https://www.youtube.com/channel/UCxCoea3ulOukfXiYAm87ZIA"
+      },
+      "description": "Nepali Movie - \"Kusume Rumal\" || Bhuwan K.C. Udit Nayaran Jha || Super Hit Nepali Movie \nGopi Krishna Movies Pvt. Ltd\nSayapatri Films Presents\nDirector / Screen Play/ Editor : Tulshi Ghimire\nA Film By : Udhav Poudel\nMovie : Kusume Rumal\nCast : Tripti Nadkar, Udit Narayan Jha, Bhuwan K.C, Pradip Pakharin, Bishowmani, Lakki Lama, Radha Nadkar, Arjun Gimire, Sanu Rahagal, Hira Kumar Singh, Sharwan Gimire, Dipak Sarki, Nirmala Gajamer, Mani Diyali, Ham jayaga, Nir Shah\nMusic / Lyrics : Ranjit Gajmer",
+      "publishedDate": "2016-08-03T05:31:42Z",
+      "year": 2016,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 4572304,
+      "likes": 30271,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 66.47
+      }
+    },
+    {
+      "id": "PZG7pCUpp8o",
+      "title": "YO MAYAKO SAGAR | Superhit Nepali (HD) | Rajesh Hamal, Karishma, Jal Shah, Ramesh Upreti",
+      "youtubeVideoId": "PZG7pCUpp8o",
+      "youtubeUrl": "https://www.youtube.com/watch?v=PZG7pCUpp8o",
+      "thumbnail": "https://i.ytimg.com/vi/PZG7pCUpp8o/hqdefault.jpg",
+      "creator": {
+        "name": "OSR Movies",
+        "channelId": "UCMJB4t_DykIriYit14RA2lQ",
+        "url": "https://www.youtube.com/channel/UCMJB4t_DykIriYit14RA2lQ"
+      },
+      "description": "YO MAYAKO SAGAR || Old Superhit Nepali Full Movie (HD) || Rajesh Hamal, Karishma Manandhar, Jal Shah, Ramesh Upreti, Nir Shah, Narayan Tripathi, Harihar Sharma, Saranga Shrestha\n\nMovie: Yo Mayako Sagar (HD)\nDigital Rights: OSR Digital\nCast: Rajesh Hamal, Karishma Manandhar, Jal Shah, Ramesh Upreti, Nir Shah, Narayan Tripathi, Harihar Sharma, Saranga Shrestha, Kiran Kc, Ashok Sharma, Surbir Pandit, Kabita Sharma Etc.\nDirector: Ashok Sharma\nProducer: Kiran Sharma\nPresenter: Ashok Sharma\nCinematogr",
+      "publishedDate": "2023-11-19T09:59:39Z",
+      "year": 2023,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 3983821,
+      "likes": 19321,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 64.81
+      }
+    },
+    {
+      "id": "karKBtahCkw",
+      "title": "chanas paye ta | pooja sharma | priyanka karki | Dilip Rayamajhi | Deepa shree niraula ●",
+      "youtubeVideoId": "karKBtahCkw",
+      "youtubeUrl": "https://www.youtube.com/watch?v=karKBtahCkw",
+      "thumbnail": "https://i.ytimg.com/vi/karKBtahCkw/hqdefault.jpg",
+      "creator": {
+        "name": "Prasta News",
+        "channelId": "UCiMRWlSr6re9WpqgDDodsjw",
+        "url": "https://www.youtube.com/channel/UCiMRWlSr6re9WpqgDDodsjw"
+      },
+      "description": "chanas paye ta | pooja sharma | priyanka karki | Dilip Rayamajhi | Deepa shree niraula ●nepali movie",
+      "publishedDate": "2025-07-21T09:15:08Z",
+      "year": 2025,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 2712804,
+      "likes": 27052,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 63.92
+      }
+    },
+    {
+      "id": "Ga8cmombapM",
+      "title": "Pusta | पुस्ता | Episode - 6 - 12 | New Nepali Serial | Nepali | Nepali Serial 2083",
+      "youtubeVideoId": "Ga8cmombapM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Ga8cmombapM",
+      "thumbnail": "https://i.ytimg.com/vi/Ga8cmombapM/hqdefault.jpg",
+      "creator": {
+        "name": "Pusta Official",
+        "channelId": "UC3TckevnEtBBqgrglAnD4Fw",
+        "url": "https://www.youtube.com/channel/UC3TckevnEtBBqgrglAnD4Fw"
+      },
+      "description": "Pusta | पुस्ता | New Nepali Serial | New Episode | Nepali Serial | Laxman Bikram Basnet, Bidhya karki, Anita Giri, Binod Shrestha | New Episode | 4K Video\n\nPusta Official Presents:- Nepali Serial - \"Pusta\" \n\n#newnepaliserial #nepaliserial #pustaofficial #pusta #पुस्ता #nepaliserial  #trendingvideo #Pustaserial #newnepaliserial #webseries #series  #newserial #newseries \n\n𝑺𝒕𝒐𝒓𝒚 / 𝑪𝒐𝒏𝒄𝒆𝒑𝒕\nJeevan Panta\n\n𝑨𝒓𝒕𝒊𝒔𝒕𝒔\nLaxman Bikram Basnet\nBidhya Karki\nBinod Shrestha\nAnita Giri\nMelina Thakuri\nRohit Karki\nSa",
+      "publishedDate": "2026-08-20T15:38:26Z",
+      "year": 2026,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 100316,
+      "likes": 2086,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 63.06
+      }
+    },
+    {
+      "id": "rI4tTPP6pvM",
+      "title": "NISHANA - Nepali | Rajesh Hamal, Nikhil Upreti, Dilip Rayamajhi, Nandita, Rejina",
+      "youtubeVideoId": "rI4tTPP6pvM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=rI4tTPP6pvM",
+      "thumbnail": "https://i.ytimg.com/vi/rI4tTPP6pvM/hqdefault.jpg",
+      "creator": {
+        "name": "OSR Movies",
+        "channelId": "UCMJB4t_DykIriYit14RA2lQ",
+        "url": "https://www.youtube.com/channel/UCMJB4t_DykIriYit14RA2lQ"
+      },
+      "description": "NISHANA - Nepali Official Full Movie | Rajesh Hamal, Nikhil Upreti, Dilip Rayamajhi, Nandita KC, Rejina Upreti, Jaya Kishan Basnet, Sunil Dutta Pandey, Nirmal Sharma\n\nMovie: Nishana\nDigital Rights: OSR Digital\nCast: Nikhil Upreti, Nandita KC, Dilip Rayamajhi, Sunil Dutta Pandey, Jaya Kishan Basnet, Nirmal Sharma, Rabi Dangol, Sushil Pokharel, Bishnu Sapkota, Suresh Darpan Pokharel\nDirector: Suresh Darpan Pokharel\nPresenter: Nikhil Upreti\nStory: Jaya Kishan Basnet\nScreenplay: Suresh Darpan Pokhar",
+      "publishedDate": "2023-12-24T08:31:40Z",
+      "year": 2023,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 3043524,
+      "likes": 16488,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 61.37
+      }
+    },
+    {
+      "id": "Rbd9LU3-MiI",
+      "title": "बुहारी 12New Nepali Sentimental || Buhari 2024/2081",
+      "youtubeVideoId": "Rbd9LU3-MiI",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Rbd9LU3-MiI",
+      "thumbnail": "https://i.ytimg.com/vi/Rbd9LU3-MiI/hqdefault.jpg",
+      "creator": {
+        "name": "NBS FILMS",
+        "channelId": "UCkCS7GzTB_LSzfyNxZtIW9w",
+        "url": "https://www.youtube.com/channel/UCkCS7GzTB_LSzfyNxZtIW9w"
+      },
+      "description": "NBS FILMS Presents :- \nPost Production:- NBS FILMS Pvt.Ltd\n# Buhari \nspecial thanks /swarg dwari flims/suseli music/murchunga digital studio\n\nSubscribe us YouTube:- \n\nhttps://www.youtube.com/channel/UCkCS...\n\nAudio/ Video Available Only On NBS FILMSPvt. Ltd.\n\nAll the Audio and Video rights of this Music Video is owned only by NBS FILMS Pvt. Ltd.\nContact us at:-+9779863490570\nएस च्यानल मा रहेका कुनै पनि गित सङ्गीत लगायत भिडीयो डाउन्लोड अथवा कपी गरेर अर्को च्यानल मा राखेको या डाउन्लोड गरी फेसबुकमा",
+      "publishedDate": "2024-11-08T13:45:08Z",
+      "year": 2024,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 2485846,
+      "likes": 14899,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 59.71
+      }
+    },
+    {
+      "id": "b8c2Q-q9r8Y",
+      "title": "Chori Buhari | छोरी बुहारी | New Nepali | Sagar Giri, Swrikriti Kharel | 2083",
+      "youtubeVideoId": "b8c2Q-q9r8Y",
+      "youtubeUrl": "https://www.youtube.com/watch?v=b8c2Q-q9r8Y",
+      "thumbnail": "https://i.ytimg.com/vi/b8c2Q-q9r8Y/hqdefault.jpg",
+      "creator": {
+        "name": "Chori Buhari Official",
+        "channelId": "UCODzfujipT0x0itVFokeyDA",
+        "url": "https://www.youtube.com/channel/UCODzfujipT0x0itVFokeyDA"
+      },
+      "description": "Chori Buhari | छोरी बुहारी | New Nepali Full Movie | Sagar Giri, Swrikriti Kharel | 2083\n\n#ChoriBuhari #छोरीबुहारी #NewNepaliMovie #NepaliMovie #NepaliFullMovie #NepaliFilm #NepaliCinema #NepaliMovie2083 #NewNepaliFilm #SagarGiri #SwrikritiKharel #NepaliActor #NepaliActress #NepaliEntertainment #NepaliMovies #NepaliFilm2083 #NepaliMovie2026 #नेपालीफिल्म #नेपालीचलचित्र #नेपालीमुभी\n#funny #news #newsong #comedy #kanchi #bhunti #buhari #sita #newmovie \n----\nChori Buhari, Chori Buhari Nepali Movie, ",
+      "publishedDate": "2026-08-21T12:25:19Z",
+      "year": 2026,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 12687,
+      "likes": 125,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 58.76
+      }
+    },
+    {
+      "id": "HZFRC-J-e3I",
+      "title": "Dui Thopa Aansu | Nepali | Bhuwan KC | Shrawan Ghimire | Anuradha Sawant | Yubraj Lama",
+      "youtubeVideoId": "HZFRC-J-e3I",
+      "youtubeUrl": "https://www.youtube.com/watch?v=HZFRC-J-e3I",
+      "thumbnail": "https://i.ytimg.com/vi/HZFRC-J-e3I/hqdefault.jpg",
+      "creator": {
+        "name": "HiTechEntertainment",
+        "channelId": "UCd97ukfGaYt4LKtIgKm9Vhw",
+        "url": "https://www.youtube.com/channel/UCd97ukfGaYt4LKtIgKm9Vhw"
+      },
+      "description": "Kusum lives a happy life with her brother in a village. She is to marry the village forest keeper, but someone kills him and frames Kusum's brother. When Kusum and her brother try to flee away from the village, they encounter a person on the way, who then changes their life forever.\n➤Shrawan Ghimiray\"s Presentation\n➤Movie: Dui Thopa Aansu (1993)\n➤Casts: Bhuwan KC, Shrawan Ghimiray, Anuradha, Mukunda Shrestha, Tika Pahari, Yubraj Lama,   Ramchandra Adhikari, Keshab Bhattarai, Ramkrishna Bajgai, B",
+      "publishedDate": "2023-11-03T11:30:13Z",
+      "year": 2023,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 2378507,
+      "likes": 14137,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 58.38
+      }
+    },
+    {
+      "id": "PZnxR0L6YIY",
+      "title": "PARAI | New Nepali | Gobind Shahi, Garima Panta, Niraj Baral, Nandita K.C",
+      "youtubeVideoId": "PZnxR0L6YIY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=PZnxR0L6YIY",
+      "thumbnail": "https://i.ytimg.com/vi/PZnxR0L6YIY/hqdefault.jpg",
+      "creator": {
+        "name": "HighlightsNepal",
+        "channelId": "UCrzyJYtjLOTfnUur8hsr7ow",
+        "url": "https://www.youtube.com/channel/UCrzyJYtjLOTfnUur8hsr7ow"
+      },
+      "description": "Don't forget to like and share with everyone if you liked this video!\n\nDear Viewer ,\n If you are trying to view this video from a location outside Nepal, do note this movie will be made available in your territory at www.hamromovie.com\n\nCreative Films Presents\nNepali Movie PARAI ( नेपाली चलचित्र पराई )\nActors: Gobind Shahi, Garima Panta, Niraj Baral, Nandita K.C \nLyrics: Shib Regmi, Basanta Sapakota, Dayaram Pande, Naresh Bhatarai, Nabaraj Lamsal\nSinger: Bhishan Mukarung, Dipak Limbu, Swarup Raj",
+      "publishedDate": "2015-07-03T13:41:06Z",
+      "year": 2015,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 2677821,
+      "likes": 15349,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 57.97
+      }
+    },
+    {
+      "id": "wCsF6vF2H9E",
+      "title": "गौथली- gauthali _ nepali 2026_ Arun Chhetri , Simran khadka",
+      "youtubeVideoId": "wCsF6vF2H9E",
+      "youtubeUrl": "https://www.youtube.com/watch?v=wCsF6vF2H9E",
+      "thumbnail": "https://i.ytimg.com/vi/wCsF6vF2H9E/hqdefault.jpg",
+      "creator": {
+        "name": "Mitrataa Films",
+        "channelId": "UCS0h5G7xTLRfpQoRwpJHO-Q",
+        "url": "https://www.youtube.com/channel/UCS0h5G7xTLRfpQoRwpJHO-Q"
+      },
+      "description": "",
+      "publishedDate": "2026-08-16T03:20:52Z",
+      "year": 2026,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 263046,
+      "likes": 3067,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 57.9
+      }
+    },
+    {
+      "id": "pkJeDj7LsoY",
+      "title": "Dukhi Aatma - New Nepali - Dayahang Rai, Aanchal Sharma, Anoop Bikram Shahi",
+      "youtubeVideoId": "pkJeDj7LsoY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pkJeDj7LsoY",
+      "thumbnail": "https://i.ytimg.com/vi/pkJeDj7LsoY/hqdefault.jpg",
+      "creator": {
+        "name": "BUDHA SUBBA MOVIES",
+        "channelId": "UC3Jc8KiWhGUlPSVW6YhO5Ug",
+        "url": "https://www.youtube.com/channel/UC3Jc8KiWhGUlPSVW6YhO5Ug"
+      },
+      "description": "Dukhi Aatma - New Nepali Full Movie  - Dayahang Rai, Aanchal Sharma, Anoop Bikram Shahi\n\nMovie team\nWriter/Director: Dipendra Lama\nProducer: Himal Kadaria\nExecutive Producer: Sudip Dhakal\nDOP: Aalok Shukla\nEditor: Nimesh Shrestha\n\nBackground Score: Rohit Shakya\nPoem: Shrawan Mukarung\nChief Asst Director: Dinesh Bahadur Rawat\nChoreographer: Ramji Lamichhane\nArt director: Bishal Neupane, Roshan Diwana\nSound design &amp; mixing: Mukesh Shah\nGaffer: Indra Lal Shrestha\nFocus puller: Rajan Rai\nProduct",
+      "publishedDate": "2026-07-24T08:15:06Z",
+      "year": 2026,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 451180,
+      "likes": 9338,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 57.01
+      }
+    },
+    {
+      "id": "Fe5B8ggFFkM",
+      "title": "MERO RAJESH DAI - Official Nepali || Rajesh Hamal, Shittal KC, Arunima Lamsal",
+      "youtubeVideoId": "Fe5B8ggFFkM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Fe5B8ggFFkM",
+      "thumbnail": "https://i.ytimg.com/vi/Fe5B8ggFFkM/hqdefault.jpg",
+      "creator": {
+        "name": "OSR Movies",
+        "channelId": "UCMJB4t_DykIriYit14RA2lQ",
+        "url": "https://www.youtube.com/channel/UCMJB4t_DykIriYit14RA2lQ"
+      },
+      "description": "MERO RAJESH DAI - Official Nepali Full Movie || Rajesh Hamal, Arunima Lamsal, Shittal KC, Harihar Sharma, Hemanta Budhathoki, Nagendra Rijal, Ramchandra Adhikari\n\nMovie: Mero Rajesh Dai\nCast: Rajesh Hamal, Arunima Lamsal, Shittal KC, Harihar Sharma, Hemanta Budhathoki, Nagendra Rijal, Ramchandra Adhikari\nDirector: Rishi Neupane\nCinematographer: Krishna Shrestha\nEditor: Anil Gautam\nLyricist: Rishi Neupane, Basanta Sapkota, Uttam Gaudel\nMusic Director: Basanta Sapkota\nPlayback Singer: Swaroop Raj ",
+      "publishedDate": "2023-12-04T09:52:42Z",
+      "year": 2023,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 2101847,
+      "likes": 12567,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 56.91
+      }
+    },
+    {
+      "id": "FEbqAuIHc0o",
+      "title": "12 Gaun - New Nepali - Sameer Bhatta - Biraj Bhatta",
+      "youtubeVideoId": "FEbqAuIHc0o",
+      "youtubeUrl": "https://www.youtube.com/watch?v=FEbqAuIHc0o",
+      "thumbnail": "https://i.ytimg.com/vi/FEbqAuIHc0o/hqdefault.jpg",
+      "creator": {
+        "name": "Nepali Movie Action BSD",
+        "channelId": "UCY6hi0STERBOOvWKThz-AFg",
+        "url": "https://www.youtube.com/channel/UCY6hi0STERBOOvWKThz-AFg"
+      },
+      "description": "12 Gaun  - New Nepali Full Movie - Sameer Bhatta  -  Biraj Bhatta",
+      "publishedDate": "2026-08-11T06:52:46Z",
+      "year": 2026,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 305030,
+      "likes": 3954,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 56.15
+      }
+    },
+    {
+      "id": "d_qaoCx4shA",
+      "title": "KARKI SAILA | Teaser 2026 | Jitu Nepal, Priyana Acharya, Sushil Pokhrel",
+      "youtubeVideoId": "d_qaoCx4shA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=d_qaoCx4shA",
+      "thumbnail": "https://i.ytimg.com/vi/d_qaoCx4shA/hqdefault.jpg",
+      "creator": {
+        "name": "Moviez Digitainment",
+        "channelId": "UCg-_2mAiYeV9uTTElfO5UpA",
+        "url": "https://www.youtube.com/channel/UCg-_2mAiYeV9uTTElfO5UpA"
+      },
+      "description": "KARKI SAILA | Official Movie Teaser 2026 | Jitu Nepal, Priyana Acharya, Sushil Pokhrel\n\n============================================\n\nMovie : KARKI SAILA\n🎬 Releasing Nationwide\n       Ashoj 2, 2083 B.S.\n\n​=============================\n\n🎵 Audio Credit 🎵\nSong: LAGYAU PARAN\nLyrics: Bishnu Nepal Nepali\nMusic: Sanket Agasti\nVocal: Shrey Agastii, Benisha Poudel\nArrange: Bishal Niroula\nStudio:Alankar Studio, Anamnagar\nRecord/Mix/Master: Ranjan Rai\nFlute: Ratna BK\nSarangi: Hemanta Kancha Rasaili\nGuitar:",
+      "publishedDate": "2026-08-17T05:26:06Z",
+      "year": 2026,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 68144,
+      "likes": 1506,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 55.85
+      }
+    },
+    {
+      "id": "A61j3nK7sYM",
+      "title": "New Nepali 2026 || Buddhi Tamang | Rajani Gurung | Priyanka Karki | Prithbi Rai",
+      "youtubeVideoId": "A61j3nK7sYM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=A61j3nK7sYM",
+      "thumbnail": "https://i.ytimg.com/vi/A61j3nK7sYM/hqdefault.jpg",
+      "creator": {
+        "name": "Highlights Movies",
+        "channelId": "UC08i2mnmdrJwu-Lq4zDZKYg",
+        "url": "https://www.youtube.com/channel/UC08i2mnmdrJwu-Lq4zDZKYg"
+      },
+      "description": "New Nepali Full Movie 2026 || Buddhi Tamang | Rajani Gurung | Priyanka Karki | Prithbi Rai\n\nPaurakhi Films Presents!\nNew Nepali Movie \"MATTI MALA\"\n\nCast: Buddhi Tamang, Rajani Gurung, Priyanka Karki, Prithbi Rai, Shisir Rana, Chiran Rai, Shanghya Shrestha, Tek Raj Langhali, Aruna Karki, Arjun Gurung, Binod Rai, Bikram Lama, Deepak Axharya\nMusic: Suman Rai\nLyrics: Janu Kambang Lingden, Roshan Bhattarai, Sange Blon Tamang\nSinger: Sundar Lama, Suman Rai, Babina Kiratee, Sangita Thapa, Amrita Limbu,",
+      "publishedDate": "2026-08-07T14:30:24Z",
+      "year": 2026,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 402024,
+      "likes": 4342,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 55.66
+      }
+    },
+    {
+      "id": "6QVygN-zGoU",
+      "title": "Mahakavi Laxmi Prasad Devkota MUNA MADAN || New Nepali | Usha Poudel, Dipak Tripathi",
+      "youtubeVideoId": "6QVygN-zGoU",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6QVygN-zGoU",
+      "thumbnail": "https://i.ytimg.com/vi/6QVygN-zGoU/hqdefault.jpg",
+      "creator": {
+        "name": "Nepali Comedy",
+        "channelId": "UCpQ9gHVcdBrZT1QQeHn6Nnw",
+        "url": "https://www.youtube.com/channel/UCpQ9gHVcdBrZT1QQeHn6Nnw"
+      },
+      "description": "Subscribe us\nhttps://www.youtube.com/channel/UCpQ9gHVcdBrZT1QQeHn6Nnw?sub_confirmation=1\n\nLike us on\nFacebook: https://www.facebook.com/budhasubbamusic/\n\nFollow us on\nTwitter: https://twitter.com/BudhaSubbaMusic\n\nCircle us on G+: http://www.youtube.com/c/BudhaSubbaDigitalPvtLtdKathmandu \n\nFollow us on\nLinkedin: http://np.linkedin.com/pub/budha-subba/80/31b/493\n\nOfficial Website: \nhttps://budhasubba.digital",
+      "publishedDate": "2026-07-03T10:18:51Z",
+      "year": 2026,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 695324,
+      "likes": 8346,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 55.66
+      }
+    },
+    {
+      "id": "SM32eCO_WI0",
+      "title": "Ghar Jwai // New //Daya Hang Rai Miruna Magar, Anil Budha Magar, Buddhi Tamang",
+      "youtubeVideoId": "SM32eCO_WI0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=SM32eCO_WI0",
+      "thumbnail": "https://i.ytimg.com/vi/SM32eCO_WI0/hqdefault.jpg",
+      "creator": {
+        "name": "Nepali Movie Clips",
+        "channelId": "UCBXAKO0b0A4yf57NY4-rIPg",
+        "url": "https://www.youtube.com/channel/UCBXAKO0b0A4yf57NY4-rIPg"
+      },
+      "description": "Ghar Jwai // New Nepali Movie //Daya Hang Rai Miruna Magar, Anil Budha Magar, Buddhi Tamang",
+      "publishedDate": "2026-08-11T07:14:46Z",
+      "year": 2026,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 249524,
+      "likes": 3343,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 55.11
+      }
+    },
+    {
+      "id": "_yX3ORVtUvM",
+      "title": "Watch SAAWAN (2026) | Superhit Nepali",
+      "youtubeVideoId": "_yX3ORVtUvM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=_yX3ORVtUvM",
+      "thumbnail": "https://i.ytimg.com/vi/_yX3ORVtUvM/hqdefault.jpg",
+      "creator": {
+        "name": "Gozbom Films ",
+        "channelId": "UC0uNl1r8im0-f5fZcdXnCrA",
+        "url": "https://www.youtube.com/channel/UC0uNl1r8im0-f5fZcdXnCrA"
+      },
+      "description": "Disclaimer:\nयो भिडियो मनोरञ्जनको उद्देश्यले मात्र बनाइएको हो। यस भिडियोमा सुरक्षात्मक सामग्री (जस्तै: हेलमेट) बिना बाइक/गाडी चलाइएको दृश्य देखाए तापनि, यसलाई बास्तविक जीवनमा अनुशरण नगर्नुहोला। हामी सधैँ ट्राफिक नियमको पालना गर्न र ड्राइभिङ गर्दा हेलमेट तथा अन्य सुरक्षाका साधनहरू अनिवार्य रूपमा प्रयोग गर्न अनुरोध गर्दछौं। सुरक्षित रहनुहोस्, जिम्मेवार बन्नुहोस्।\n\nsongs\nMusic composer/lyrics - Kapil Jung Ale Magar\nMusic arrangement - Santosh Sunar\n Vocal - DineshKandell / Salina Bk\nSAAWAN THEME SON",
+      "publishedDate": "2026-08-19T09:35:53Z",
+      "year": 2026,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 7899,
+      "likes": 228,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 54.99
+      }
+    },
+    {
+      "id": "Vhf7rS3T_tg",
+      "title": "New Nepali 2024 - JATRA | Bipin Karki, Rabindra Singh Baniya, Rabindra Jha, Barsha Raut",
+      "youtubeVideoId": "Vhf7rS3T_tg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vhf7rS3T_tg",
+      "thumbnail": "https://i.ytimg.com/vi/Vhf7rS3T_tg/hqdefault.jpg",
+      "creator": {
+        "name": "HighlightsNepal",
+        "channelId": "UCrzyJYtjLOTfnUur8hsr7ow",
+        "url": "https://www.youtube.com/channel/UCrzyJYtjLOTfnUur8hsr7ow"
+      },
+      "description": "New Nepali Full Movie 2024 - Jatra | Bipin Karki, Rabindra Singh Baniya, Rabindra Jha, Barsha Raut\n\nShatkon Arts Production Presents\nNepali Movie \"JATRA\"\n\nWriter/Director: Pradeep Bhattarai\nExecutive Producer: Rabindra Singh Baniya\nProducers: Singe Lama, Yadav Paudel\nCast: Bipin Karki, Rabindra Singh Baniya, Rabindra Jha, Barsha Raut, Prechya Bajracharya, Prakash Ghimire, Praween Khatiwada, Kamalmani Nepal, Bhola Raj Sapkota, Nilkaji Shakya, Sajan Thapa Magar, Priyanka Jha, Suresh Karki, Safar P",
+      "publishedDate": "2024-05-10T12:42:29Z",
+      "year": 2024,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 1270216,
+      "likes": 10131,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 52.73
+      }
+    },
+    {
+      "id": "QUJmB0esFLw",
+      "title": "SAMHALIYEKO JAATI | Full Nepali Christian Movie 2026 | Santosh Ramdam | Buddhi Tamang | Bikram Biswa",
+      "youtubeVideoId": "QUJmB0esFLw",
+      "youtubeUrl": "https://www.youtube.com/watch?v=QUJmB0esFLw",
+      "thumbnail": "https://i.ytimg.com/vi/QUJmB0esFLw/hqdefault.jpg",
+      "creator": {
+        "name": "SANTOSH RAMDAM CHANNEL ",
+        "channelId": "UCNR6ERyztdHw-k2i1lxdQEg",
+        "url": "https://www.youtube.com/channel/UCNR6ERyztdHw-k2i1lxdQEg"
+      },
+      "description": "With gratitude to God, I present Samhaliyeko Jaati, a Nepali-Bhutanese historical documentary. Free on YouTube. Your support or prayers help preserve our story and future Christian films.\n— Director Santosh Ramdam\n\nSupport SJ Production : https://gofund.me/1ad1e7537\n\nWritten & Directed by Santosh Ramdam\n\nS J PRODUCTION\nProducers:-\nSubash Biswa, Sanjay Gurung, Gober Biswa, Yusuf Sharma, Raaz Das, Rohit Sinchury, Bhim / Tika Gurung, Suresh Tamang, & Ramesh Ale\n\nCast :-  Santosh Ramdam, Bikram Bisw",
+      "publishedDate": "2025-12-31T22:00:25Z",
+      "year": 2025,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 465549,
+      "likes": 12431,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 52.52
+      }
+    },
+    {
+      "id": "LgZmLovxu4A",
+      "title": "Best old | Buba Aama | Ganesh Upreti, Biraj Bhatta, Arunima Lamshal, Dilip Rayamajhi",
+      "youtubeVideoId": "LgZmLovxu4A",
+      "youtubeUrl": "https://www.youtube.com/watch?v=LgZmLovxu4A",
+      "thumbnail": "https://i.ytimg.com/vi/LgZmLovxu4A/hqdefault.jpg",
+      "creator": {
+        "name": "Nepali Hits BSD",
+        "channelId": "UCnVCQu4To3bsXb9vhW_eDqg",
+        "url": "https://www.youtube.com/channel/UCnVCQu4To3bsXb9vhW_eDqg"
+      },
+      "description": "Starring: Ganesh Upreti, Biraj Bhatta, Arunima Lamshal, Dilip Rayamajhi ETC.\nEdit: Tara Thapa(Kimbhe)\nDialogue/Script: Maunata Shrestha\nChoreographer: Shanta Nepali\nMusic: Suresh Adhikari\nAction: N.B Maharjan\nCinematographer: Dipak Bantawa\nStory: Murari Pokhrel\nProducer: Murari Pokhrel, Yogesh Lamichhane\nDirector: Madan Ghimire",
+      "publishedDate": "2026-05-04T07:15:06Z",
+      "year": 2026,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 656245,
+      "likes": 7205,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 52.41
+      }
+    },
+    {
+      "id": "2pLCrmWVkjo",
+      "title": "Aama - आमा - Hit New - Mithila Sharma, Surakshya Panta, Desh Bhakta Khanal",
+      "youtubeVideoId": "2pLCrmWVkjo",
+      "youtubeUrl": "https://www.youtube.com/watch?v=2pLCrmWVkjo",
+      "thumbnail": "https://i.ytimg.com/vi/2pLCrmWVkjo/hqdefault.jpg",
+      "creator": {
+        "name": "Nepali Comedy",
+        "channelId": "UCpQ9gHVcdBrZT1QQeHn6Nnw",
+        "url": "https://www.youtube.com/channel/UCpQ9gHVcdBrZT1QQeHn6Nnw"
+      },
+      "description": "Aama -  आमा - Hit  New Nepali Movie  - Mithila Sharma, Surakshya Panta, Desh Bhakta Khanal\n\n\nSubscribe us\nhttps://www.youtube.com/channel/UCpQ9gHVcdBrZT1QQeHn6Nnw?sub_confirmation=1\n\nLike us on\nFacebook: https://www.facebook.com/budhasubbamusic/\n\nFollow us on\nTwitter: https://twitter.com/BudhaSubbaMusic\n\nCircle us on G+: http://www.youtube.com/c/BudhaSubbaDigitalPvtLtdKathmandu \n\nFollow us on\nLinkedin: http://np.linkedin.com/pub/budha-subba/80/31b/493\n\nOfficial Website: \nhttps://budhasubba.digit",
+      "publishedDate": "2026-03-30T05:44:16Z",
+      "year": 2026,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 519637,
+      "likes": 8322,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 51.7
+      }
+    },
+    {
+      "id": "OelaSbuXwRE",
+      "title": "BHAIHALCHHA NI | New Nepali Ft. Soniya KC, Suman Singh, Garima Pant, Bishal Pokhrel",
+      "youtubeVideoId": "OelaSbuXwRE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=OelaSbuXwRE",
+      "thumbnail": "https://i.ytimg.com/vi/OelaSbuXwRE/hqdefault.jpg",
+      "creator": {
+        "name": "HighlightsNepal",
+        "channelId": "UCrzyJYtjLOTfnUur8hsr7ow",
+        "url": "https://www.youtube.com/channel/UCrzyJYtjLOTfnUur8hsr7ow"
+      },
+      "description": "Don't forget to like and share with everyone if you liked this video!\n\nMovie : Bhaihalchha Ni\nStarring : Suman Singh, Sonia KC, Garima Pant, Bishal Pokharel, Sunil Thapa etc.\nMusic : Yadav / Govind\nLyrics : Lok Raj Adhikari\nChoreographer : Dinesh Adhikari\nCinematographer : Hari Humagain\nEditor : Milan Shrestha\nAction director : Roshan Shrestha\nProducers : Dinesh Adhikari, R. K. Pandey\nWriter/Director : MS Agraj KC\n© Highlights Nepal Pvt. Ltd.\n\nTo stay updated please CLICK HERE to SUBSCRIBE: http",
+      "publishedDate": "2015-11-26T09:56:20Z",
+      "year": 2015,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 1897817,
+      "likes": 5580,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 51.3
+      }
+    },
+    {
+      "id": "hhfRgEvzQyg",
+      "title": "Samjhana || Nepali Superhit | Bhuwan KC, Tripti Nadakar",
+      "youtubeVideoId": "hhfRgEvzQyg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=hhfRgEvzQyg",
+      "thumbnail": "https://i.ytimg.com/vi/hhfRgEvzQyg/hqdefault.jpg",
+      "creator": {
+        "name": "Highlights Movies",
+        "channelId": "UC08i2mnmdrJwu-Lq4zDZKYg",
+        "url": "https://www.youtube.com/channel/UC08i2mnmdrJwu-Lq4zDZKYg"
+      },
+      "description": "Samjhana || Nepali Superhit Full Movie | Bhuwan KC, Tripti Nadakar\n\nIshwori Films Presents!\nNepali Movie \"Samjhana\"\n\nLead Cast: Bhuwan KC, Tripti Nadakar\nProducer: Shambhu Pradhan\nDirector: Shambhu Pradhan\r\n\r\n#HighlightsNepal #Samjhana #NepaliFullMovie\r\n© Highlights Nepal Pvt. Ltd.\r\n\r\nTo stay updated please CLICK HERE to SUBSCRIBE: http://www.youtube.com/user/highlight...\r\n\r\nHighlights Nepal Pvt. Ltd is authorized to upload this video. Using of this video on other channels without prior permissi",
+      "publishedDate": "2024-12-22T11:48:38Z",
+      "year": 2024,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 1138139,
+      "likes": 7135,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 51.17
+      }
+    },
+    {
+      "id": "_-fKAVlvEpg",
+      "title": "Hostel 3- New Nepali 2026- CoolBoy, Magne Buda, Padam, Ryhaan, Hena, Ashish, Simran",
+      "youtubeVideoId": "_-fKAVlvEpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=_-fKAVlvEpg",
+      "thumbnail": "https://i.ytimg.com/vi/_-fKAVlvEpg/hqdefault.jpg",
+      "creator": {
+        "name": "BUDHA SUBBA MOVIES",
+        "channelId": "UC3Jc8KiWhGUlPSVW6YhO5Ug",
+        "url": "https://www.youtube.com/channel/UC3Jc8KiWhGUlPSVW6YhO5Ug"
+      },
+      "description": "Hostel 3- New Nepali Full Movie 2026- CoolBoy, Magne Buda, Padam, Ryhaan, Hena, Ashish, Simran\n\n\nCast: Paras Bam Thakuri,Ryhaan Giri, Padam Tamang, Ashish Ghimire, Simran Pant, Hena Nagarkoti, Sama Parajuli, Prabin Khatiwada, Umar Khan, Dinesh Dc, Subash Gajurel, Uttam Kc, Ashish Purush,Shyam Rai,Rohan Shrestha, Santosh Baniya, Aron Kan, Bishnu Karki, Willeam PN, Niraj Khanal,Ashmita Khanal,Mahesh Mukhiya Sunwar,Roshika Poudel\n\nMusic: Arjun Pokhrel,Almoda Rana Upreti,Mahesh Gyawali,Kiran Michael",
+      "publishedDate": "2026-06-01T11:45:06Z",
+      "year": 2026,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 344592,
+      "likes": 6354,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 51.11
+      }
+    },
+    {
+      "id": "vtEEBAy6CCc",
+      "title": "AAMA - NEPALI - MITHILA SHARMA, SURAKSHYA PANTA, DIPENDRA K. KHANAL",
+      "youtubeVideoId": "vtEEBAy6CCc",
+      "youtubeUrl": "https://www.youtube.com/watch?v=vtEEBAy6CCc",
+      "thumbnail": "https://i.ytimg.com/vi/vtEEBAy6CCc/hqdefault.jpg",
+      "creator": {
+        "name": "BUDHA SUBBA MOVIES",
+        "channelId": "UC3Jc8KiWhGUlPSVW6YhO5Ug",
+        "url": "https://www.youtube.com/channel/UC3Jc8KiWhGUlPSVW6YhO5Ug"
+      },
+      "description": "AAMA - NEPALI FULL MOVIE - MITHILA SHARMA, SURAKSHYA PANTA, DIPENDRA K. KHANAL\n:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::\nDS DigitalPresents\n\nAama \n\n► Cast: Mithila Sharma, Surakshya Panta, Sarita Giri, Deshbhakta Khanal, Manish Niraula, Laxmi Bhusal, Tika Pahari, Padam Prasad Poudel, Aashant Sharma, Saroj Aryal,  Asmita Khanal, Sudip Khatiwada, Jhakendra GC, Bikash Khanal\n► Chief Asst. Director: Ashim Khanal\n► Asst. Direction: Rohit Raj Gautam\n► Producti",
+      "publishedDate": "2026-08-07T10:45:07Z",
+      "year": 2026,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 133783,
+      "likes": 1915,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 50.76
+      }
+    },
+    {
+      "id": "7QhQZY4bVl0",
+      "title": "Kanchhi || कान्छी || Nepali || Old is Gold - Evergreen",
+      "youtubeVideoId": "7QhQZY4bVl0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=7QhQZY4bVl0",
+      "thumbnail": "https://i.ytimg.com/vi/7QhQZY4bVl0/hqdefault.jpg",
+      "creator": {
+        "name": "Nepali Comedy",
+        "channelId": "UCpQ9gHVcdBrZT1QQeHn6Nnw",
+        "url": "https://www.youtube.com/channel/UCpQ9gHVcdBrZT1QQeHn6Nnw"
+      },
+      "description": "Subscribe us\nhttps://www.youtube.com/channel/UCpQ9gHVcdBrZT1QQeHn6Nnw?sub_confirmation=1\n\nLike us on\nFacebook: https://www.facebook.com/budhasubbamusic/\n\nFollow us on\nTwitter: https://twitter.com/BudhaSubbaMusic\n\nCircle us on G+: http://www.youtube.com/c/BudhaSubbaDigitalPvtLtdKathmandu \n\nFollow us on\nLinkedin: http://np.linkedin.com/pub/budha-subba/80/31b/493\n\nOfficial Website: \nhttps://budhasubba.digital",
+      "publishedDate": "2026-05-08T09:50:28Z",
+      "year": 2026,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 564041,
+      "likes": 5459,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 50.75
+      }
+    },
+    {
+      "id": "f9wuu-zUZdQ",
+      "title": "Farki Aau - Nepali - Rajesh Hamal, Niruta Singh, Sonia KC and others",
+      "youtubeVideoId": "f9wuu-zUZdQ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=f9wuu-zUZdQ",
+      "thumbnail": "https://i.ytimg.com/vi/f9wuu-zUZdQ/hqdefault.jpg",
+      "creator": {
+        "name": "Nepali Chalachitra BSD",
+        "channelId": "UCEjmwSPYYFbXrUos85iL_-w",
+        "url": "https://www.youtube.com/channel/UCEjmwSPYYFbXrUos85iL_-w"
+      },
+      "description": "Casts: Rajesh Hamal, Niruta Singh, Sonia KC, Ganesh Upreti, Ram Paudel, Nabin Shrestha\nDirector: Om Prateek\nExecutive Producer: Baburam Dahal\nProducer: Ram Paudel\nAudio Video By Budha Subba Music Centre",
+      "publishedDate": "2026-08-05T13:15:06Z",
+      "year": 2026,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 142330,
+      "likes": 1727,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 49.71
+      }
+    },
+    {
+      "id": "jxSVsewAb68",
+      "title": "SOURYA | Action Nepali 2013 Ft. Rajesh Hamal, Saugat Malla, Hema Shrestha",
+      "youtubeVideoId": "jxSVsewAb68",
+      "youtubeUrl": "https://www.youtube.com/watch?v=jxSVsewAb68",
+      "thumbnail": "https://i.ytimg.com/vi/jxSVsewAb68/hqdefault.jpg",
+      "creator": {
+        "name": "HighlightsNepal",
+        "channelId": "UCrzyJYtjLOTfnUur8hsr7ow",
+        "url": "https://www.youtube.com/channel/UCrzyJYtjLOTfnUur8hsr7ow"
+      },
+      "description": "Don't forget to like and share with everyone if you liked this video!\n\nDear Viewer ,\n If you are trying to view this video from a location \noutside Nepal, do note this movie will be made available in your territory at www.hamromovie.com\n\nHakim Movie Production Presents \nNepali Full Movie SOURYA - The Rise of Hero\nStarring: Rajesh Hamal, Saugat Malla, Hema Shrestha, Anoop Bikram Shahi\nProduction Manager: Prakash Mahara, Hari Karki\nDialogue: Subash Singh Basnet, Kumud Dewan Basnet\nScreenplay: Suba",
+      "publishedDate": "2015-07-03T14:06:17Z",
+      "year": 2015,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 1187163,
+      "likes": 5424,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 47.71
+      }
+    },
+    {
+      "id": "HDGqWz_Zc7A",
+      "title": "निखिल उप्रेतीको एक्सन || MARYADA Action || Rajesh Hamal, Nikhil Upreti, Sanchita Luitel",
+      "youtubeVideoId": "HDGqWz_Zc7A",
+      "youtubeUrl": "https://www.youtube.com/watch?v=HDGqWz_Zc7A",
+      "thumbnail": "https://i.ytimg.com/vi/HDGqWz_Zc7A/hqdefault.jpg",
+      "creator": {
+        "name": "OSR Digital",
+        "channelId": "UCxCoea3ulOukfXiYAm87ZIA",
+        "url": "https://www.youtube.com/channel/UCxCoea3ulOukfXiYAm87ZIA"
+      },
+      "description": "निखिल उप्रेतीको एक्सन || MARYADA Nepali Movie Action || Rajesh Hamal, Nikhil Upreti, Sanchita Luitel\n\nFull Movie Link: https://youtu.be/NKRPfkEGZZo\n\n============\n\nSajan Films Pvt. Ltd. Presents\nMovie: Maryada\nWriter / Director: Shyam Bhattrai\nProducer: Sanjay Katu\nCast: Rajesh Hamal, Nikhil Upreti, Sanchita Luitel, Shyam Ghimire, Arunima Lamsal, Ganesh Upreti, Dinesh Sharma, Sailesh Pandy, Sharda Shakya, Kamal Krishna, Bal Deep\nMusic: Kamal Krishna\nSinger: Udit Narayan Jha, Sangita Rana, Dipa Jh",
+      "publishedDate": "2026-08-13T11:26:46Z",
+      "year": 2026,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 90353,
+      "likes": 518,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 47.45
+      }
+    },
+    {
+      "id": "l9i5T8iWz4I",
+      "title": "Aama Nabhay Jiwan Thappa/Hashrw Durga New Purna Bahadur Ko Sarangi/ Bipana Thapa",
+      "youtubeVideoId": "l9i5T8iWz4I",
+      "youtubeUrl": "https://www.youtube.com/watch?v=l9i5T8iWz4I",
+      "thumbnail": "https://i.ytimg.com/vi/l9i5T8iWz4I/hqdefault.jpg",
+      "creator": {
+        "name": "PHMP MOVIES TALKIES ",
+        "channelId": "UCx86syO6E0wdW-zfavJDCFQ",
+        "url": "https://www.youtube.com/channel/UCx86syO6E0wdW-zfavJDCFQ"
+      },
+      "description": "",
+      "publishedDate": "2024-12-04T16:43:14Z",
+      "year": 2024,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 351910,
+      "likes": 5736,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 45.98
+      }
+    },
+    {
+      "id": "KAtHVLsrdtk",
+      "title": "DADA KO BAR PIPAL - NEPALI - SHIVA SHRESTHA, GAURI MALLA, BHUWAN KC, SALON, RUBINA",
+      "youtubeVideoId": "KAtHVLsrdtk",
+      "youtubeUrl": "https://www.youtube.com/watch?v=KAtHVLsrdtk",
+      "thumbnail": "https://i.ytimg.com/vi/KAtHVLsrdtk/hqdefault.jpg",
+      "creator": {
+        "name": "Nepali Movie Action BSD",
+        "channelId": "UCY6hi0STERBOOvWKThz-AFg",
+        "url": "https://www.youtube.com/channel/UCY6hi0STERBOOvWKThz-AFg"
+      },
+      "description": "",
+      "publishedDate": "2026-06-22T11:06:06Z",
+      "year": 2026,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 178389,
+      "likes": 2083,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 45.93
+      }
+    },
+    {
+      "id": "EcOn8vqJpjc",
+      "title": "9 O'clock || Nepali || Sumina Ghimire, Dhruba Dutta, Basanta Raj Rijal, Mukesh Acharya",
+      "youtubeVideoId": "EcOn8vqJpjc",
+      "youtubeUrl": "https://www.youtube.com/watch?v=EcOn8vqJpjc",
+      "thumbnail": "https://i.ytimg.com/vi/EcOn8vqJpjc/hqdefault.jpg",
+      "creator": {
+        "name": "ND Movies",
+        "channelId": "UCGvykkvDvgKs_EfSSe5wEBA",
+        "url": "https://www.youtube.com/channel/UCGvykkvDvgKs_EfSSe5wEBA"
+      },
+      "description": "Bhagya Mero Khoto || 9 O'clock Nepali Movie Song || Sumina Ghimire, Dhruba Dutta\n\nMovie: 9 O'clock (Nine O'clock)\nCast: Sumina Ghimire, Basanta Raj Rijal, Mukesh Acharya, Dhruba Dutta\nDirector: Baburam Dhakal\nProducer: Ramesh MK Poudel\nStory: Prakash Puri\nScreenplay: Prakash Puri\nDialogue: Prakash Puri\nCinematographer: Aakash Shah\nEditor: Bipin Malla\nPlayback Singer: Shiva Pariyar, Rajina Rimal, Indira Joshi, Rajesh Payal Rai\nChoreographer: Kabiraj Gahatraj\nBackground Score: Mohit Munal\n\n#bhagya",
+      "publishedDate": "2026-08-09T08:15:07Z",
+      "year": 2026,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 48900,
+      "likes": 467,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 45.57
+      }
+    },
+    {
+      "id": "-gKUvbF9B-Y",
+      "title": "MASTERNI | New Nepali 2026 | Priyanka Karki, Simran, Aaryan Sigdel | HD",
+      "youtubeVideoId": "-gKUvbF9B-Y",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-gKUvbF9B-Y",
+      "thumbnail": "https://i.ytimg.com/vi/-gKUvbF9B-Y/hqdefault.jpg",
+      "creator": {
+        "name": "अनौठो Nepal",
+        "channelId": "UC2Q6lX6zWQtTZrkwqiJtfbQ",
+        "url": "https://www.youtube.com/channel/UC2Q6lX6zWQtTZrkwqiJtfbQ"
+      },
+      "description": "Watch the official MASTERNI – New Nepali Full Movie 2026 starring Priyanka Karki, Simran Khadka, and Aaryan Sigdel\n\nEnjoy this entertaining Nepali movie in HD featuring a powerful story, memorable performances, and quality entertainment for the whole family.\n\nStarring:\n\nPriyanka Karki\nSimran Khadka\nAaryan Sigdel\n\n📺 Don't forget to:\n\nLike the video\nShare with your friends and family\nSubscribe for more Nepali movies, songs, and entertainment\n\n#MASTERNI #NepaliMovie #NewNepaliMovie #PriyankaKarki #",
+      "publishedDate": "2026-08-02T23:22:57Z",
+      "year": 2026,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 82751,
+      "likes": 592,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 44.55
+      }
+    },
+    {
+      "id": "-ClBuBciJvA",
+      "title": "Gobar Ganesh | Nepali Comedy Movie ||New 2026",
+      "youtubeVideoId": "-ClBuBciJvA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-ClBuBciJvA",
+      "thumbnail": "https://i.ytimg.com/vi/-ClBuBciJvA/hqdefault.jpg",
+      "creator": {
+        "name": "Danger Mute",
+        "channelId": "UCDsxcfBCObOeKguMR_JBWEg",
+        "url": "https://www.youtube.com/channel/UCDsxcfBCObOeKguMR_JBWEg"
+      },
+      "description": "Gobar Ganesh | Nepali Comedy Movie ||\n\nNew Nepali movie 2026 ||\n\n\nGobar Ganesh is a popular classic Nepali comedy movie loved by audiences for its humor, story, and memorable characters. This full-length Nepali film delivers entertainment with comedy, drama, and social message.\n\n\n🎥 Movie Name: Gobar Ganesh\n🎭 Genre: Comedy / Drama\n🌍 Language: Nepali\n🇳🇵 Country: Nepal\nWatch the full movie and enjoy timeless Nepali comedy.\nDon’t forget to Like, Share, and Subscribe for more Nepali movies and entert",
+      "publishedDate": "2026-01-26T12:36:01Z",
+      "year": 2026,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 292972,
+      "likes": 2576,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 44.13
+      }
+    },
+    {
+      "id": "-v7i3Q-uPAs",
+      "title": "Top 10 Most Viewed Nepali Film In Youtube 2025 #youtube #nepalifilm #mostviewed #top10 #bhumigat",
+      "youtubeVideoId": "-v7i3Q-uPAs",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-v7i3Q-uPAs",
+      "thumbnail": "https://i.ytimg.com/vi/-v7i3Q-uPAs/hqdefault.jpg",
+      "creator": {
+        "name": "Bhumigat",
+        "channelId": "UC6Co56FwSKA6892dF7RNCmw",
+        "url": "https://www.youtube.com/channel/UC6Co56FwSKA6892dF7RNCmw"
+      },
+      "description": "",
+      "publishedDate": "2025-04-18T10:14:26Z",
+      "year": 2025,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 250301,
+      "likes": 2916,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 42.68
+      }
+    },
+    {
+      "id": "05k43oZxgkE",
+      "title": "Chokho Maya | Nepali | Saroj Khanal | Kristi Mainali | Vijay Lama",
+      "youtubeVideoId": "05k43oZxgkE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=05k43oZxgkE",
+      "thumbnail": "https://i.ytimg.com/vi/05k43oZxgkE/hqdefault.jpg",
+      "creator": {
+        "name": "HiTechEntertainment",
+        "channelId": "UCd97ukfGaYt4LKtIgKm9Vhw",
+        "url": "https://www.youtube.com/channel/UCd97ukfGaYt4LKtIgKm9Vhw"
+      },
+      "description": "Video Provided By: Big Films\nSagun Films P. LTD Presents\nCasts: Vijaya Lama, Kristi Mainali, Saroj Khanal, Uday Nepal, Ravi Shah, Sakuntala Sharma.\nChoreograph: Basanta Shrestha\nEditor: Pappu Sharma\nDialogue: Ramesh Amatya\nCinematography: Deepak Dhakal\nMusic: Shakti Ballav\nExecutive Producers: Mrs. Pralita Malla, Mrs. Geeta Rana\nCo-Producers: Mrs. Poonam Shah, Mrs. Shonila Shah, Prathana Shahi, Aaradhana Shahi\nProducers: Mrs. Jyoti Rana, Tirtha Narayan Maharjan\nStory/Screenplay/Direction: Raj Bi",
+      "publishedDate": "2016-06-12T03:25:39Z",
+      "year": 2016,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 550240,
+      "likes": 3414,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 42.25
+      }
+    },
+    {
+      "id": "gcydomjqFCc",
+      "title": "New Nepali 2026 - LALIBAZAR | Swastima Khadka, Rabindra Singh Baniya",
+      "youtubeVideoId": "gcydomjqFCc",
+      "youtubeUrl": "https://www.youtube.com/watch?v=gcydomjqFCc",
+      "thumbnail": "https://i.ytimg.com/vi/gcydomjqFCc/hqdefault.jpg",
+      "creator": {
+        "name": "Nabin Panta Official",
+        "channelId": "UCMrF89aHxQWfhLOkPd8LTjA",
+        "url": "https://www.youtube.com/channel/UCMrF89aHxQWfhLOkPd8LTjA"
+      },
+      "description": "New Nepali Full Movie 2026 - LALIBAZAR | Swastima Khadka, Rabindra Singh Baniya",
+      "publishedDate": "2026-06-26T14:23:31Z",
+      "year": 2026,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 107908,
+      "likes": 683,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 41.12
+      }
+    },
+    {
+      "id": "XaCCasXiXbo",
+      "title": "(मितज्यू) MITAJYU New Nepali || Dayahang Rai, Saugat Malla, Teriya Magar, Puskar Gurung,",
+      "youtubeVideoId": "XaCCasXiXbo",
+      "youtubeUrl": "https://www.youtube.com/watch?v=XaCCasXiXbo",
+      "thumbnail": "https://i.ytimg.com/vi/XaCCasXiXbo/hqdefault.jpg",
+      "creator": {
+        "name": "BMK FILMS",
+        "channelId": "UC3j_nyyUQ0Vg5cvPVtyMJtQ",
+        "url": "https://www.youtube.com/channel/UC3j_nyyUQ0Vg5cvPVtyMJtQ"
+      },
+      "description": "MITAJYU || New Nepali Movie FULL MOVIE 2026 / 2083 || Dayahang Rai, Saugat Malla, Teriya Phounja Magar, Puskar Gurung, Subarna Thapa || MITAJYU Full Movie\n\n=================\n\nGM MOVIES PRODUCTION PRESENTS\n\nमितज्यू - MITAJYU\nIn Cinemas: Jestha 8, 2083\n\nA FILM BY\nANIL BUDHA MAGAR\n\n=================\n\n🎞️ MOVIE CREDIT 🎞️\n\nPRESENTATION\nGM MOVIES PVT. LTD.\n\nMOVIE\nMITAJYU\n\n\nCAST\nDAYAHANG RAI\nSAUGAT MALLA\nTERIYA PHOUNJA MAGAR\nSISHIR BANGDEL\nPUSKAR GURUNG\nSUBARNA THAPA\nRAJ THAPA KAUCHA\nANU THAPA\nARUN PUN ",
+      "publishedDate": "2026-06-08T23:35:06Z",
+      "year": 2026,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 90404,
+      "likes": 526,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 39.24
+      }
+    },
+    {
+      "id": "icsWASacvfA",
+      "title": "Outlaw Dafa 219 - Official Trailer - 2025 - Sushil Shrestha, Shikshya Sangroula",
+      "youtubeVideoId": "icsWASacvfA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=icsWASacvfA",
+      "thumbnail": "https://i.ytimg.com/vi/icsWASacvfA/hqdefault.jpg",
+      "creator": {
+        "name": "SAPANA DIGITAL ENTERTAINMENT",
+        "channelId": "UCdolRzPe_R24OTkpymfuSGg",
+        "url": "https://www.youtube.com/channel/UCdolRzPe_R24OTkpymfuSGg"
+      },
+      "description": "OUTLAW (Dafa 219) - New Nepali Movie Official Teaser 2024 / 2081 || Sushil Shrestha, Naresh Poudel, Shikshya Sangroula, Suman Bhandari, Sony Lagun || New Nepali Movie Outlaw Official Teaser\n\nShadow Pictures & Retrow Films Presents\n\nIn Cinemas: 2024 September 19 / Asoj 3\n\nMovie: Outlaw (Dafa 219)\nWriter/Direction: Bickee Maharjan\nProducer: Amit Agrahari\nExecutive Producer: Binod Kadayat\nCo-Producer: Bikash Chaudhary\nDOP: Nabin Gurung\nFilm Editor: Shahil Khan\nChief Ad.: Dirgha Dhami\nTitle Animatio",
+      "publishedDate": "2025-02-28T13:33:17Z",
+      "year": 2025,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 34641,
+      "likes": 956,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 38.74
+      }
+    },
+    {
+      "id": "1lcMAn8WBLQ",
+      "title": "NALAPANI (True Story)- ऐतिहासिक नेपाली - Full Nepali Historical Movie",
+      "youtubeVideoId": "1lcMAn8WBLQ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=1lcMAn8WBLQ",
+      "thumbnail": "https://i.ytimg.com/vi/1lcMAn8WBLQ/hqdefault.jpg",
+      "creator": {
+        "name": "Y-AMAN",
+        "channelId": "UCbqzeveNesUz18yiQYkFKDw",
+        "url": "https://www.youtube.com/channel/UCbqzeveNesUz18yiQYkFKDw"
+      },
+      "description": "NALAPANI (True Story)- ऐतिहासिक नेपाली Full Movie-  Full Nepali Historical Movie \n\n========================================\n\n========================================\n\n\nBIR GORKHALI FILMS PVT. PRESENTS \nin association with RIMESH ADHIKARI FILM PROUCION PVT\nGANGA NARAYAN FILMS PRODUCTION PVT.LTD. \nBUSYBEE ENTERTAINMENT PVT.\nNEPAL & NEPALESE PEOPLE'S \n\n\"NALAPANI\" \n\nA RIMESH ADHIKARI FILM \n►Cast: Arjun Jung Shahi, Santosh Pant, Desh Bhakta Khanal, Poozana Pradhan, Manoj Shakya, Janak Batuala, Sushil",
+      "publishedDate": "2025-10-16T10:48:37Z",
+      "year": 2025,
+      "genre": [
+        "Nepali Cinema"
+      ],
+      "views": 35367,
+      "likes": 477,
+      "verified": false,
+      "algorithm": {
+        "trendingScore": 36.08
+      }
+    }
+  ],
+  "meta": {
+    "updatedAt": "2026-08-22T22:40:26.426706+00:00",
+    "count": 91,
+    "source": "YouTube Data API"
+  }
+}
